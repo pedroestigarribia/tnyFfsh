@@ -1,0 +1,154 @@
+INSTAGRAM_USUARIO | INSTAGRAM_URL | NOME | ATIVIDADE | CIDADE | BAIRRO | STATUS_INSTAGRAM
+@psi.inaralopes | https://www.instagram.com/psi.inaralopes/ | Inara Lopes | Psicóloga (terapia de casal) | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@psicologa.marianna | https://www.instagram.com/psicologa.marianna/ | Marianna | Psicóloga e Psicanalista | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@clinicaniteroipsi | https://www.instagram.com/clinicaniteroipsi/ | Clínica Niterói de Psicologia | Clínica de psicologia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@psicologaanacristinarocha | https://www.instagram.com/psicologaanacristinarocha/ | Ana Cristina Rocha | Psicóloga clínica | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@psicologajulianadamasceno | https://www.instagram.com/psicologajulianadamasceno/ | Juliana Damasceno | Psicóloga (TCC) | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@psiquintanilha | https://www.instagram.com/psiquintanilha/ | Tatiana Quintanilha | Psicóloga clínica | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@magdaassis.psicologa | https://www.instagram.com/magdaassis.psicologa/ | Magda Assis | Psicóloga clínica | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@carolinaperez.psi | https://www.instagram.com/carolinaperez.psi/ | Carolina Perez P. Santolia | Psicóloga clínica | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@psicologacarlamayrinck | https://www.instagram.com/psicologacarlamayrinck/ | Carla Mayrinck | Psicóloga (TCC) | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@psi_alessandraabreu | https://www.instagram.com/psi_alessandraabreu/ | Alessandra Abreu | Psicóloga clínica TCC | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@nucleopsiniteroi | https://www.instagram.com/nucleopsiniteroi/ | Núcleo Psi Niterói | Clínica de psicologia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@pinapsicologia | https://www.instagram.com/pinapsicologia/ | Pina Clínica e Estudos em Psicologia | Clínica de psicologia | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@cdhclinicadepsicologia | https://www.instagram.com/cdhclinicadepsicologia/ | CDH Niterói - Psicologia | Clínica de psicologia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@psicologiaanhangueranit | https://www.instagram.com/psicologiaanhangueranit/ | Psicologia Anhanguera - Niterói | Clínica-escola de psicologia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@psi.betebraganca | https://www.instagram.com/psi.betebraganca/ | Bete Bragança | Psicóloga (EMDR) | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@psicologoraphaelalcantara | https://www.instagram.com/psicologoraphaelalcantara/ | Raphael Alcantara da Silva | Psicólogo (TCC) | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@psimariaclaras | https://www.instagram.com/psimariaclaras/ | Maria Clara Ribeiro | Psicóloga infantil | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@giselearantesadvogada | https://www.instagram.com/giselearantesadvogada/ | Gisele Arantes | Advogada (previdenciário, consumidor, família) | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@costadeccacheadvocacia | https://www.instagram.com/costadeccacheadvocacia/ | Costa Deccache Advocacia | Advocacia trabalhista e previdenciária | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@verasadvogados | https://www.instagram.com/verasadvogados/ | Veras Advogados | Escritório de advocacia | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@adv.raquelferreira | https://www.instagram.com/adv.raquelferreira/ | Raquel Ferreira | Advogada previdenciária | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@manchesteradvogados | https://www.instagram.com/manchesteradvogados/ | Manchester Advogados | Escritório de advocacia | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@freitasbatistagonzaga | https://www.instagram.com/freitasbatistagonzaga/ | Freitas Batista & Gonzaga | Escritório de advocacia | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@ciliosrayaneabreu_ | https://www.instagram.com/ciliosrayaneabreu_/ | Rayane Abreu | Cílios e sobrancelhas | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@designeranareis | https://www.instagram.com/designeranareis/ | Ana Reis | Designer de cílios e sobrancelhas | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@amandasz_lash | https://www.instagram.com/amandasz_lash/ | Amanda | Lash designer | Maricá | Cordeirinho | CONFIRMADO PUBLICAMENTE
+@alexsandracilioss | https://www.instagram.com/alexsandracilioss/ | Alexsandra Costa Studio | Lash designer e micropigmentadora | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@milenabraz5 | https://www.instagram.com/milenabraz5/ | Milena | Lash designer | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@lorhaneverdanlash | https://www.instagram.com/lorhaneverdanlash/ | Lorhane Verdan | Lash designer | Maricá | Centro | CONFIRMADO PUBLICAMENTE
+@gisellelash13 | https://www.instagram.com/gisellelash13/ | Giselle | Lash designer | Maricá | Cordeirinho | CONFIRMADO PUBLICAMENTE
+@danielrochalash | https://www.instagram.com/danielrochalash/ | Daniel Rocha | Lash designer e cursos | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@sant.anacontabilidade | https://www.instagram.com/sant.anacontabilidade/ | Santana Contabilidade | Escritório de contabilidade | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@facilcontabilidadeita | https://www.instagram.com/facilcontabilidadeita/ | Fácil Contabilidade | Escritório de contabilidade | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@etxcontabil | https://www.instagram.com/etxcontabil/ | ETX Contábil | Contabilidade e planejamento tributário | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@mjxcontabilidade | https://www.instagram.com/mjxcontabilidade/ | MJX Contabilidade | Serviços contábeis | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@csassessoriacontabil | https://www.instagram.com/csassessoriacontabil/ | C&S Assessoria Contábil | Assessoria contábil | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@reboredocontabilidade | https://www.instagram.com/reboredocontabilidade/ | Reboredo Contabilidade | Escritório de contabilidade | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@fgmfiscalcontabil | https://www.instagram.com/fgmfiscalcontabil/ | FGM Fiscal Contábil | Escritório de contabilidade | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@marcellaquevedo | https://www.instagram.com/marcellaquevedo/ | Marcella Quevedo | Contadora | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@cfcontabilidadeitaborai | https://www.instagram.com/cfcontabilidadeitaborai/ | CF Contabilidade Itaboraí | Escritório de contabilidade | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@carolribasnutri | https://www.instagram.com/carolribasnutri/ | Carolina Ribas | Nutricionista (fertilidade) | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@christiananutri | https://www.instagram.com/christiananutri/ | Christiana de Oliveira | Nutricionista clínica | Niterói | Icaraí | PROVÁVEL — NÃO CONFIRMADO
+@cnsnutricao | https://www.instagram.com/cnsnutricao/ | Centro de Nutrição e Saúde Icaraí | Clínica de nutrição | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@elistrindadenutri | https://www.instagram.com/elistrindadenutri/ | Elis Trindade | Nutricionista funcional | Niterói | Icaraí | PROVÁVEL — NÃO CONFIRMADO
+@nutrinandasoares | https://www.instagram.com/nutrinandasoares/ | Fernanda Soares | Nutricionista infantil | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@estetica.vanessavieira | https://www.instagram.com/estetica.vanessavieira/ | Vanessa Vieira | Esteticista e cosmetóloga | São Gonçalo | Alcântara | PROVÁVEL — NÃO CONFIRMADO
+@rosasdesaron_estetica | https://www.instagram.com/rosasdesaron_estetica/ | Rosas de Saron Estética | Estética facial e corporal | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@michelisoaresestetica | https://www.instagram.com/michelisoaresestetica/ | Micheli Soares | Estética facial e corporal | São Gonçalo | Alcântara | CONFIRMADO PUBLICAMENTE
+@espacofacial_patioalcantara | https://www.instagram.com/espacofacial_patioalcantara/ | Espaço Facial Pátio Alcântara | Harmonização facial e corporal | São Gonçalo | Alcântara | CONFIRMADO PUBLICAMENTE
+@dra.virginianobre | https://www.instagram.com/dra.virginianobre/ | Virgínia Nobre | Fisioterapeuta dermatofuncional | São Gonçalo | Alcântara | PROVÁVEL — NÃO CONFIRMADO
+@flordapeleeestetica | https://www.instagram.com/flordapeleeestetica/ | Rozilete - Flor da Pele Estética | Estética | São Gonçalo | Alcântara | CONFIRMADO PUBLICAMENTE
+@nubiaburicheestetica | https://www.instagram.com/nubiaburicheestetica/ | Núbia Buriche Estética | Estética facial e corporal | São Gonçalo | Alcântara | CONFIRMADO PUBLICAMENTE
+@clinica.fabiola | https://www.instagram.com/clinica.fabiola/ | Athenya Clinic - Fabíola Aquino | Clínica de estética | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@dallierestetica | https://www.instagram.com/dallierestetica/ | Dallier Estética Avançada | Estética avançada | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@drleonardoribeiro1 | https://www.instagram.com/drleonardoribeiro1/ | Leonardo Ribeiro | Cirurgião-dentista | São Gonçalo | Centro | CONFIRMADO PUBLICAMENTE
+@dravictoriaquintanilha | https://www.instagram.com/dravictoriaquintanilha/ | Victoria Quintanilha | Dentista (facetas, implantes) | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@njdentistas | https://www.instagram.com/njdentistas/ | NJ Dentistas | Clínica odontológica | São Gonçalo | Gradim | CONFIRMADO PUBLICAMENTE
+@odontoclinic.sg | https://www.instagram.com/odontoclinic.sg/ | Odontoclinic São Gonçalo | Clínica odontológica | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@dentotal.saogoncalo | https://www.instagram.com/dentotal.saogoncalo/ | Dentotal São Gonçalo | Clínica odontológica | São Gonçalo | Centro | CONFIRMADO PUBLICAMENTE
+@odontoestrela | https://www.instagram.com/odontoestrela/ | Clínica Odonto Estrela | Clínica odontológica | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@dentistaamadosorriso | https://www.instagram.com/dentistaamadosorriso/ | Amado Sorriso | Clínica odontológica | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@possolloodontologia | https://www.instagram.com/possolloodontologia/ | Possollo Odontologia | Clínica odontológica | São Gonçalo | Zé Garoto | CONFIRMADO PUBLICAMENTE
+@jcodonto_clinica | https://www.instagram.com/jcodonto_clinica/ | JC Odonto Clínica | Clínica odontológica | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@dental.artsg | https://www.instagram.com/dental.artsg/ | Clínica Dental Art SG | Clínica odontológica | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@sintase.salao | https://www.instagram.com/sintase.salao/ | Sinta-se Salão | Salão de beleza | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@studiopaulasallesoficial | https://www.instagram.com/studiopaulasallesoficial/ | Studio Paula Salles | Studio de beleza | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@mkrbelezaespa | https://www.instagram.com/mkrbelezaespa/ | Studio MKR | Salão de beleza e spa | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@espacohaydyoficial | https://www.instagram.com/espacohaydyoficial/ | Espaço Haydy | Salão de beleza | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@eleganceitaipuacu | https://www.instagram.com/eleganceitaipuacu/ | Elegance Espaço de Beleza | Salão de beleza e estética | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@tomalmeidaoficial | https://www.instagram.com/tomalmeidaoficial/ | Tom Almeida | Hair stylist | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@itaipuacubeauty | https://www.instagram.com/itaipuacubeauty/ | Loiras Premium | Salão de beleza | Maricá | Itaipuaçu | CONFIRMADO PUBLICAMENTE
+@fernandaluzconfeitaria | https://www.instagram.com/fernandaluzconfeitaria/ | Fernanda Luz | Confeitaria (bolos e doces) | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@omaconfeitaria | https://www.instagram.com/omaconfeitaria/ | Oma Confeitaria Artesanal | Confeitaria | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@delizaconfeitaria | https://www.instagram.com/delizaconfeitaria/ | Deliza Confeitaria | Confeitaria (bolos) | Niterói | Piratininga | CONFIRMADO PUBLICAMENTE
+@nossaencanteria | https://www.instagram.com/nossaencanteria/ | Encanteria | Confeitaria e fábrica de doces | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@confeitariabeiramar | https://www.instagram.com/confeitariabeiramar/ | Confeitaria Beira Mar | Confeitaria | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@mindadoces | https://www.instagram.com/mindadoces/ | Fernanda Neves - Minda Doces | Confeitaria (bolos e bentôs) | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@cintiabragaconfeitaria | https://www.instagram.com/cintiabragaconfeitaria/ | Cintia Braga | Confeitaria | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@niteroicafe | https://www.instagram.com/niteroicafe/ | Niterói Café | Cafeteria e tortas | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@tatiaguiardoceria | https://www.instagram.com/tatiaguiardoceria/ | Tati Aguiar Doceria | Doceria | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@nayara.designerdeunhas | https://www.instagram.com/nayara.designerdeunhas/ | Nayara | Nail designer | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@cristianefonsecanails | https://www.instagram.com/cristianefonsecanails/ | Cristiane Fonseca | Nail designer | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@marianasilva_nails | https://www.instagram.com/marianasilva_nails/ | Mariana Silva | Nail designer e manicure | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@thaisanjosnail | https://www.instagram.com/thaisanjosnail/ | Thais Anjos | Nail designer e instrutora | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@pamela_souza_nails | https://www.instagram.com/pamela_souza_nails/ | Pâmela Souza | Nail designer | Itaboraí | Centro | CONFIRMADO PUBLICAMENTE
+@biiiamaldonado | https://www.instagram.com/biiiamaldonado/ | Bia Maldonado | Nail designer | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@leydiday_nails | https://www.instagram.com/leydiday_nails/ | Leydi Day | Nail designer | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@thaisa.a_nails | https://www.instagram.com/thaisa.a_nails/ | Thaisa | Manicure e nail designer | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@thamiresgomes_nails | https://www.instagram.com/thamiresgomes_nails/ | Thamires Gomes | Nail designer | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@duda_corretoradeimoveis | https://www.instagram.com/duda_corretoradeimoveis/ | Duda | Corretora de imóveis | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@davi.saramago.oficial | https://www.instagram.com/davi.saramago.oficial/ | Imobiliária Davi Saramago | Imobiliária | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@henriqueocorretorr | https://www.instagram.com/henriqueocorretorr/ | Henrique Santos | Corretor de imóveis | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@luis_imoveis | https://www.instagram.com/luis_imoveis/ | Luís Imóveis | Imobiliária | Niterói | Região Oceânica | CONFIRMADO PUBLICAMENTE
+@priscillarangelcorretora | https://www.instagram.com/priscillarangelcorretora/ | Priscilla Rangel | Corretora de imóveis | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@tempoimoveisrj | https://www.instagram.com/tempoimoveisrj/ | Tempo Imóveis RJ | Imobiliária | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@marianamirandacorretora | https://www.instagram.com/marianamirandacorretora/ | Mariana Miranda | Corretora de imóveis | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@evarosa.consultoraimobiliaria | https://www.instagram.com/evarosa.consultoraimobiliaria/ | Eva Rosa | Corretora de imóveis | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@kifferimoveis | https://www.instagram.com/kifferimoveis/ | Kiffer Imóveis | Imobiliária | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@joimoveis.niteroi | https://www.instagram.com/joimoveis.niteroi/ | Jô Imóveis | Imobiliária | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@studiofitad | https://www.instagram.com/studiofitad/ | Studio Fit AD | Treinamento personalizado | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@barrafitstudio | https://www.instagram.com/barrafitstudio/ | Barra Fit | Academia e funcional | São Gonçalo | Centro | CONFIRMADO PUBLICAMENTE
+@teamsgcentro | https://www.instagram.com/teamsgcentro/ | Team SG Centro | Academia | São Gonçalo | Centro | CONFIRMADO PUBLICAMENTE
+@fit.bodystudio | https://www.instagram.com/fit.bodystudio/ | Ana Carolina | Personal trainer | São Gonçalo | Alcântara | CONFIRMADO PUBLICAMENTE
+@personalfisio.julianalima | https://www.instagram.com/personalfisio.julianalima/ | Juliana Lima | Personal trainer e fisioterapeuta | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@inoveacademia.sg | https://www.instagram.com/inoveacademia.sg/ | Inove Academia | Academia | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@gregorio___alex | https://www.instagram.com/gregorio___alex/ | Alex Gregório | Personal fight (muay thai) | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@dra_prisciladepaula | https://www.instagram.com/dra_prisciladepaula/ | Priscila de Paula | Biomedicina estética e nutrição | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@dra.danielagreco | https://www.instagram.com/dra.danielagreco/ | Daniela Greco | Biomédica esteta | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@drabiancalemosf | https://www.instagram.com/drabiancalemosf/ | Bianca Lemos | Biomédica esteta | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@draeloapaes | https://www.instagram.com/draeloapaes/ | Eloá Paes | Biomédica esteta | Niterói | Icaraí | CONFIRMADO PUBLICAMENTE
+@institutointegraniteroi | https://www.instagram.com/institutointegraniteroi/ | Instituto Integra Niterói | Clínica e cursos de estética | Niterói | Centro | CONFIRMADO PUBLICAMENTE
+@femvp_biomed | https://www.instagram.com/femvp_biomed/ | Fernanda Vieira | Fisioterapeuta e biomédica esteta | Niterói | Centro | CONFIRMADO PUBLICAMENTE
+@drajosycastro | https://www.instagram.com/drajosycastro/ | Josy Castro | Biomédica esteta | Niterói | Centro | CONFIRMADO PUBLICAMENTE
+@dressaclsfotografia | https://www.instagram.com/dressaclsfotografia/ | Andressa | Fotógrafa (famílias, eventos) | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@palomaviterbo_ | https://www.instagram.com/palomaviterbo_/ | Paloma Viterbo | Fotógrafa de gestantes | Maricá | Itapeba | CONFIRMADO PUBLICAMENTE
+@paulinnecarvalhofotografa | https://www.instagram.com/paulinnecarvalhofotografa/ | Paulinne Carvalho | Fotógrafa e publicitária | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@julianalobofotografias | https://www.instagram.com/julianalobofotografias/ | Juliana Lobo | Fotógrafa infantil | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@lucasbezerra_fotografia | https://www.instagram.com/lucasbezerra_fotografia/ | Lucas Bezerra | Fotógrafo | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@maduleaofotografia | https://www.instagram.com/maduleaofotografia/ | Madu Leão | Fotógrafa de famílias | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@nathaliaalbuquerquefotografia | https://www.instagram.com/nathaliaalbuquerquefotografia/ | Nathalia Albuquerque | Fotógrafa (empresarial, gestante) | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@marialirafotografia | https://www.instagram.com/marialirafotografia/ | Maria Lira | Fotógrafa gastronômica | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@ursulacoutoadvocacia | https://www.instagram.com/ursulacoutoadvocacia/ | Ursula Couto Advocacia | Advocacia | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@drajosianedecastro | https://www.instagram.com/drajosianedecastro/ | Josiane de Castro Advocacia | Advocacia previdenciária e família | Itaboraí | não identificado | CONFIRMADO PUBLICAMENTE
+@claudiabastos.adv | https://www.instagram.com/claudiabastos.adv/ | Claudia Bastos | Advogada | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@maldonadoevasconcellos | https://www.instagram.com/maldonadoevasconcellos/ | Maldonado e Vasconcellos | Escritório de advocacia | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@raphaellamouraadv_ | https://www.instagram.com/raphaellamouraadv_/ | Raphaella Moura | Advogada previdenciária | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@adv.anapaularodrigues | https://www.instagram.com/adv.anapaularodrigues/ | Ana Paula Rodrigues | Advogada civilista | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@drageilzagoncalves | https://www.instagram.com/drageilzagoncalves/ | Geilza Gonçalves | Advogada (família e empresarial) | Itaboraí | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@sarefisioterapianiteroi | https://www.instagram.com/sarefisioterapianiteroi/ | Sare Fisioterapia | Clínica de fisioterapia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@fisioonfisioterapia | https://www.instagram.com/fisioonfisioterapia/ | FisioOn | Clínica de fisioterapia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@dr.rodrigo.grandelli | https://www.instagram.com/dr.rodrigo.grandelli/ | Rodrigo Grandelli | Fisioterapeuta esportivo | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@rafaelalopes.fisioterapeuta | https://www.instagram.com/rafaelalopes.fisioterapeuta/ | Rafaela Lopes | Fisioterapeuta e pilates | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@sbfisio | https://www.instagram.com/sbfisio/ | SB Fisio | Fisioterapia esportiva | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@carolinagrandelli | https://www.instagram.com/carolinagrandelli/ | Carolina Grandelli | Fisioterapeuta ortopédica | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@habilitarfisioterapia | https://www.instagram.com/habilitarfisioterapia/ | Habilitar Fisioterapia | Clínica de fisioterapia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@dudar.fisio | https://www.instagram.com/dudar.fisio/ | Duda R.R | Fisioterapeuta | Niterói | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@trataniteroi | https://www.instagram.com/trataniteroi/ | Trata Niterói | Clínica de fisioterapia | Niterói | não identificado | CONFIRMADO PUBLICAMENTE
+@apaixonados.saogoncalo | https://www.instagram.com/apaixonados.saogoncalo/ | Apaixonados Clínica Veterinária 24h | Clínica veterinária | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@vepveterinaria24h | https://www.instagram.com/vepveterinaria24h/ | VEP Clínica Veterinária Emergencial | Clínica veterinária | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@clinicavetsantaluzia | https://www.instagram.com/clinicavetsantaluzia/ | Veterinária Santa Luzia | Clínica veterinária 24h | São Gonçalo | não identificado | CONFIRMADO PUBLICAMENTE
+@veterinariaboassu | https://www.instagram.com/veterinariaboassu/ | Veterinária Boassu | Clínica veterinária | São Gonçalo | Boaçu | CONFIRMADO PUBLICAMENTE
+@veterinariapopularlervet | https://www.instagram.com/veterinariapopularlervet/ | Lervet Alcântara | Clínica veterinária | São Gonçalo | Alcântara | CONFIRMADO PUBLICAMENTE
+@casanimalclinica | https://www.instagram.com/casanimalclinica/ | Casanimal Clínica Veterinária | Clínica veterinária | São Gonçalo | Mutondo | CONFIRMADO PUBLICAMENTE
+@clinicaveterinaria_sosfocinhos | https://www.instagram.com/clinicaveterinaria_sosfocinhos/ | SOS Focinhos | Clínica veterinária | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@goldenvetveterinaria | https://www.instagram.com/goldenvetveterinaria/ | Golden Vet | Clínica veterinária 24h | São Gonçalo | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@useraimodas | https://www.instagram.com/useraimodas/ | Use Rai | Moda feminina | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@mcmariachica | https://www.instagram.com/mcmariachica/ | Maria Chica | Moda feminina | Maricá | Centro | CONFIRMADO PUBLICAMENTE
+@ldrmodafeminina01 | https://www.instagram.com/ldrmodafeminina01/ | LDR Moda Feminina | Moda feminina | Maricá | não identificado | PROVÁVEL — NÃO CONFIRMADO
+@fulanamarica | https://www.instagram.com/fulanamarica/ | Fulana Maricá | Moda feminina | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@mk_fashion08off | https://www.instagram.com/mk_fashion08off/ | MK Fashion | Moda feminina | Maricá | Centro | CONFIRMADO PUBLICAMENTE
+@pontox_modas | https://www.instagram.com/pontox_modas/ | Ponto X | Moda feminina | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@_juboutique | https://www.instagram.com/_juboutique/ | Ju Boutique | Moda feminina | Maricá | não identificado | CONFIRMADO PUBLICAMENTE
+@leoasmoda | https://www.instagram.com/leoasmoda/ | Leoas Moda Feminina | Moda feminina | Maricá | não identificado | CONFIRMADO PUBLICAMENTE

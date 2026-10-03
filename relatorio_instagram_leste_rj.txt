@@ -1,0 +1,162 @@
+RELATÓRIO — Instagrams profissionais Leste Fluminense (data 2026-10-03)
+
+TOTAL BRUTO DE PERFIS ENCONTRADOS: 153
+TOTAL DE INSTAGRAMS ÚNICOS: 153
+TOTAL DE INSTAGRAMS CONFIRMADOS: 123
+TOTAL DE INSTAGRAMS PROVÁVEIS: 30
+TOTAL DESCARTADO: posts/reels, perfis de mídia/notícia e perfis fora da região não foram registrados (não contabilizados individualmente)
+TOTAL DE DUPLICATAS REMOVIDAS: 0
+TOTAL FINAL: 153
+META: 20.000+
+META ATINGIDA: NÃO
+
+TOTAL POR CIDADE:
+  Niterói: 56
+  São Gonçalo: 41
+  Maricá: 31
+  Itaboraí: 25
+
+TOTAL POR CATEGORIA:
+  Beleza: 32
+  Saúde: 24
+  Psicologia: 17
+  Direito: 13
+  Imóveis: 10
+  Contabilidade: 9
+  Alimentação: 9
+  Biomedicina e estética avançada: 8
+  Fotografia e audiovisual: 8
+  Pet: 8
+  Moda: 8
+  Fitness: 7
+
+TOTAL POR FERRAMENTA:
+  TINYFISH: 153
+  APIFY: 0 (não conectado nesta sessão)
+  OUTSCRAPER: 0 (não conectado nesta sessão)
+  FIRECRAWL: 0 (disponível; não usado nesta rodada)
+
+COMBINAÇÕES:
+  INSTAGRAM + WHATSAPP: 12 (7.8%)
+  INSTAGRAM + TELEFONE: 21 (13.7%)
+  INSTAGRAM + WHATSAPP + TELEFONE: 5 (3.3%)
+  INSTAGRAM + SITE / EMAIL / GOOGLE MAPS: 0 (rodada de enriquecimento não executada)
+
+NÍVEIS:
+  A (IG confirmado + WhatsApp): 9
+  B (IG confirmado + telefone): 16
+  C (IG confirmado, sem contato): 98
+  D (IG provável): 30
+
+TOTAL POR BAIRRO:
+  Niterói / não identificado: 41
+  São Gonçalo / não identificado: 25
+  Itaboraí / não identificado: 24
+  Maricá / não identificado: 18
+  Niterói / Icaraí: 10
+  São Gonçalo / Alcântara: 8
+  Maricá / Itaipuaçu: 7
+  São Gonçalo / Centro: 4
+  Maricá / Centro: 3
+  Niterói / Centro: 3
+  Maricá / Cordeirinho: 2
+  São Gonçalo / Gradim: 1
+  São Gonçalo / Zé Garoto: 1
+  Niterói / Piratininga: 1
+  Itaboraí / Centro: 1
+  Niterói / Região Oceânica: 1
+  Maricá / Itapeba: 1
+  São Gonçalo / Boaçu: 1
+  São Gonçalo / Mutondo: 1
+
+TOTAL POR ATIVIDADE:
+  Clínica odontológica: 8
+  Moda feminina: 8
+  Nail designer: 6
+  Clínica veterinária: 6
+  Escritório de contabilidade: 5
+  Imobiliária: 5
+  Clínica de psicologia: 4
+  Psicóloga clínica: 4
+  Escritório de advocacia: 4
+  Lash designer: 4
+  Corretora de imóveis: 4
+  Biomédica esteta: 4
+  Clínica de fisioterapia: 4
+  Estética facial e corporal: 3
+  Salão de beleza: 3
+  Confeitaria: 3
+  Psicóloga (TCC): 2
+  Advogada previdenciária: 2
+  Academia: 2
+  Clínica veterinária 24h: 2
+  Psicóloga (terapia de casal): 1
+  Psicóloga e Psicanalista: 1
+  Psicóloga clínica TCC: 1
+  Clínica-escola de psicologia: 1
+  Psicóloga (EMDR): 1
+  Psicólogo (TCC): 1
+  Psicóloga infantil: 1
+  Advogada (previdenciário, consumidor, família): 1
+  Advocacia trabalhista e previdenciária: 1
+  Cílios e sobrancelhas: 1
+  Designer de cílios e sobrancelhas: 1
+  Lash designer e micropigmentadora: 1
+  Lash designer e cursos: 1
+  Contabilidade e planejamento tributário: 1
+  Serviços contábeis: 1
+  Assessoria contábil: 1
+  Contadora: 1
+  Nutricionista (fertilidade): 1
+  Nutricionista clínica: 1
+  Clínica de nutrição: 1
+  Nutricionista funcional: 1
+  Nutricionista infantil: 1
+  Esteticista e cosmetóloga: 1
+  Harmonização facial e corporal: 1
+  Fisioterapeuta dermatofuncional: 1
+  Estética: 1
+  Clínica de estética: 1
+  Estética avançada: 1
+  Cirurgião-dentista: 1
+  Dentista (facetas, implantes): 1
+  Studio de beleza: 1
+  Salão de beleza e spa: 1
+  Salão de beleza e estética: 1
+  Hair stylist: 1
+  Confeitaria (bolos e doces): 1
+  Confeitaria (bolos): 1
+  Confeitaria e fábrica de doces: 1
+  Confeitaria (bolos e bentôs): 1
+  Cafeteria e tortas: 1
+  Doceria: 1
+  Nail designer e manicure: 1
+  Nail designer e instrutora: 1
+  Manicure e nail designer: 1
+  Corretor de imóveis: 1
+  Treinamento personalizado: 1
+  Academia e funcional: 1
+  Personal trainer: 1
+  Personal trainer e fisioterapeuta: 1
+  Personal fight (muay thai): 1
+  Biomedicina estética e nutrição: 1
+  Clínica e cursos de estética: 1
+  Fisioterapeuta e biomédica esteta: 1
+  Fotógrafa (famílias, eventos): 1
+  Fotógrafa de gestantes: 1
+  Fotógrafa e publicitária: 1
+  Fotógrafa infantil: 1
+  Fotógrafo: 1
+  Fotógrafa de famílias: 1
+  Fotógrafa (empresarial, gestante): 1
+  Fotógrafa gastronômica: 1
+  Advocacia: 1
+  Advocacia previdenciária e família: 1
+  Advogada: 1
+  Advogada civilista: 1
+  Advogada (família e empresarial): 1
+  Fisioterapeuta esportivo: 1
+  Fisioterapeuta e pilates: 1
+  Fisioterapia esportiva: 1
+  Fisioterapeuta ortopédica: 1
+  Fisioterapeuta: 1

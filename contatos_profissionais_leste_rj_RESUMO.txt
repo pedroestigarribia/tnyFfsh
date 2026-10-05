@@ -4,119 +4,119 @@ Data da consulta: 03/10/2026
 
 == TOTAIS ==
 TOTAL BRUTO ENCONTRADO: 42293 ocorrências retornadas pelas buscas (Firecrawl Maps: 7277; TinyFish/Google Maps: 34509; base anterior de 03/10/2026: 507)
-TOTAL DE DUPLICATAS E DESCARTES: 26943 (o mesmo perfil do Google Maps aparece em várias buscas; 55 fichas fundidas por chave forte — mesmo Instagram/WhatsApp/telefone/site no mesmo local; descartes por estarem fora das 4 cidades ou serem órgãos públicos/instituições fora do escopo)
-TOTAL FINAL: 15350 registros únicos e válidos
-Filiais preservadas: 2112 pares de fichas compartilham telefone/WhatsApp/Instagram/site mas têm endereços diferentes e foram mantidas como filiais/unidades distintas
+TOTAL DE DUPLICATAS E DESCARTES: 26991 (o mesmo perfil do Google Maps aparece em várias buscas; 55 fichas fundidas por chave forte — mesmo Instagram/WhatsApp/telefone/site no mesmo local; descartes por estarem fora das 4 cidades ou serem órgãos públicos/instituições fora do escopo)
+TOTAL FINAL: 15302 registros únicos e válidos
+Filiais preservadas: 1913 pares de fichas compartilham telefone/WhatsApp/Instagram/site mas têm endereços diferentes e foram mantidas como filiais/unidades distintas
 Mesmo local com nomes distintos: 90 pares compartilham contato no mesmo endereço, mas com nomes diferentes (ex.: profissionais de uma mesma clínica) — mantidos separados
 
 == TOTAL POR CIDADE ==
-Niterói/RJ: 5369
-São Gonçalo/RJ: 5274
-Maricá/RJ: 2650
-Itaboraí/RJ: 2057
+Niterói/RJ: 5354
+São Gonçalo/RJ: 5260
+Maricá/RJ: 2635
+Itaboraí/RJ: 2053
 
 == TOTAL POR CATEGORIA ==
-SAÚDE: 2825
-BELEZA E ESTÉTICA: 2287
-ALIMENTAÇÃO: 2024
-MODA: 1187
-COMÉRCIO LOCAL: 1184
-FITNESS: 889
-EDUCAÇÃO: 756
-EVENTOS: 688
-PSICOLOGIA E TERAPIAS: 679
+SAÚDE: 2795
+BELEZA E ESTÉTICA: 2282
+ALIMENTAÇÃO: 2023
+MODA: 1195
+COMÉRCIO LOCAL: 1192
+FITNESS: 888
+EDUCAÇÃO: 754
+EVENTOS: 686
+PSICOLOGIA E TERAPIAS: 678
 ARQUITETURA E IMÓVEIS: 662
 DIREITO: 560
-PET: 449
+PET: 450
 CONTABILIDADE E FINANÇAS: 382
-ARTESANATO: 283
+ARTESANATO: 281
 TURISMO: 190
-BIOMEDICINA: 128
-NEGÓCIOS: 61
+BIOMEDICINA: 116
+NEGÓCIOS: 56
 MARKETING: 55
-MATERNIDADE: 29
+MATERNIDADE: 27
 SERVIÇOS DIGITAIS: 21
-TECNOLOGIA: 11
+TECNOLOGIA: 9
 
 == TOTAL POR CIDADE × CATEGORIA ==
-Niterói/RJ: SAÚDE 1132; BELEZA E ESTÉTICA 723; ALIMENTAÇÃO 645; MODA 422; COMÉRCIO LOCAL 364; FITNESS 362; PSICOLOGIA E TERAPIAS 276; EDUCAÇÃO 261; EVENTOS 234; DIREITO 216; ARQUITETURA E IMÓVEIS 215; CONTABILIDADE E FINANÇAS 134; PET 123; ARTESANATO 73; TURISMO 64; BIOMEDICINA 59; NEGÓCIOS 25; MARKETING 23; MATERNIDADE 10; SERVIÇOS DIGITAIS 7; TECNOLOGIA 1
-São Gonçalo/RJ: SAÚDE 920; BELEZA E ESTÉTICA 869; ALIMENTAÇÃO 750; MODA 437; COMÉRCIO LOCAL 382; EDUCAÇÃO 311; FITNESS 271; EVENTOS 268; PSICOLOGIA E TERAPIAS 214; ARQUITETURA E IMÓVEIS 185; DIREITO 179; PET 154; CONTABILIDADE E FINANÇAS 122; ARTESANATO 95; TURISMO 43; BIOMEDICINA 31; MARKETING 19; NEGÓCIOS 16; MATERNIDADE 4; SERVIÇOS DIGITAIS 2; TECNOLOGIA 2
-Itaboraí/RJ: SAÚDE 350; BELEZA E ESTÉTICA 322; ALIMENTAÇÃO 246; COMÉRCIO LOCAL 206; MODA 154; ARQUITETURA E IMÓVEIS 104; FITNESS 93; EVENTOS 86; EDUCAÇÃO 77; PSICOLOGIA E TERAPIAS 77; DIREITO 73; PET 67; ARTESANATO 60; CONTABILIDADE E FINANÇAS 57; TURISMO 36; BIOMEDICINA 16; NEGÓCIOS 9; MATERNIDADE 8; MARKETING 7; SERVIÇOS DIGITAIS 6; TECNOLOGIA 3
-Maricá/RJ: SAÚDE 423; ALIMENTAÇÃO 383; BELEZA E ESTÉTICA 373; COMÉRCIO LOCAL 232; MODA 174; FITNESS 163; ARQUITETURA E IMÓVEIS 158; PSICOLOGIA E TERAPIAS 112; EDUCAÇÃO 107; PET 105; EVENTOS 100; DIREITO 92; CONTABILIDADE E FINANÇAS 69; ARTESANATO 55; TURISMO 47; BIOMEDICINA 22; NEGÓCIOS 11; MATERNIDADE 7; MARKETING 6; SERVIÇOS DIGITAIS 6; TECNOLOGIA 5
+Niterói/RJ: SAÚDE 1121; BELEZA E ESTÉTICA 721; ALIMENTAÇÃO 646; MODA 424; COMÉRCIO LOCAL 366; FITNESS 362; PSICOLOGIA E TERAPIAS 276; EDUCAÇÃO 261; EVENTOS 233; DIREITO 216; ARQUITETURA E IMÓVEIS 215; CONTABILIDADE E FINANÇAS 134; PET 123; ARTESANATO 71; TURISMO 64; BIOMEDICINA 56; NEGÓCIOS 25; MARKETING 23; MATERNIDADE 9; SERVIÇOS DIGITAIS 7; TECNOLOGIA 1
+São Gonçalo/RJ: SAÚDE 911; BELEZA E ESTÉTICA 868; ALIMENTAÇÃO 749; MODA 439; COMÉRCIO LOCAL 388; EDUCAÇÃO 312; FITNESS 269; EVENTOS 267; PSICOLOGIA E TERAPIAS 213; ARQUITETURA E IMÓVEIS 185; DIREITO 179; PET 155; CONTABILIDADE E FINANÇAS 122; ARTESANATO 95; TURISMO 43; BIOMEDICINA 27; MARKETING 19; NEGÓCIOS 13; MATERNIDADE 3; SERVIÇOS DIGITAIS 2; TECNOLOGIA 1
+Itaboraí/RJ: SAÚDE 351; BELEZA E ESTÉTICA 321; ALIMENTAÇÃO 245; COMÉRCIO LOCAL 206; MODA 154; ARQUITETURA E IMÓVEIS 104; FITNESS 93; EVENTOS 86; EDUCAÇÃO 77; PSICOLOGIA E TERAPIAS 77; DIREITO 73; PET 67; ARTESANATO 60; CONTABILIDADE E FINANÇAS 57; TURISMO 36; BIOMEDICINA 14; MATERNIDADE 8; NEGÓCIOS 8; MARKETING 7; SERVIÇOS DIGITAIS 6; TECNOLOGIA 3
+Maricá/RJ: SAÚDE 412; ALIMENTAÇÃO 383; BELEZA E ESTÉTICA 372; COMÉRCIO LOCAL 232; MODA 178; FITNESS 164; ARQUITETURA E IMÓVEIS 158; PSICOLOGIA E TERAPIAS 112; PET 105; EDUCAÇÃO 104; EVENTOS 100; DIREITO 92; CONTABILIDADE E FINANÇAS 69; ARTESANATO 55; TURISMO 47; BIOMEDICINA 19; NEGÓCIOS 10; MATERNIDADE 7; MARKETING 6; SERVIÇOS DIGITAIS 6; TECNOLOGIA 4
 
 == INDICADORES DE CONTATO ==
-TOTAL COM TELEFONE: 10272 (66.9%)
-TOTAL COM WHATSAPP CONFIRMADO: 1112 (7.2%)
-TOTAL SEM WHATSAPP IDENTIFICADO: 14238 (92.8%)
-TOTAL COM INSTAGRAM CONFIRMADO: 2477 (16.1%)
-TOTAL COM INSTAGRAM PROVÁVEL: 389 (2.5%)
-TOTAL SEM INSTAGRAM IDENTIFICADO: 12484 (81.3%)
+TOTAL COM TELEFONE: 10255 (67.0%)
+TOTAL COM WHATSAPP CONFIRMADO: 1112 (7.3%)
+TOTAL SEM WHATSAPP IDENTIFICADO: 14190 (92.7%)
+TOTAL COM INSTAGRAM CONFIRMADO: 2477 (16.2%)
+TOTAL COM INSTAGRAM PROVÁVEL: 390 (2.5%)
+TOTAL SEM INSTAGRAM IDENTIFICADO: 12435 (81.3%)
 TOTAL COM WHATSAPP + INSTAGRAM (ambos confirmados): 739 (4.8%)
 TOTAL COM E-MAIL: 198 (1.3%)
-TOTAL COM SITE: 3409 (22.2%)
-TOTAL COM GOOGLE MAPS: 15350 (100.0%)
+TOTAL COM SITE: 3385 (22.1%)
+TOTAL COM GOOGLE MAPS: 15302 (100.0%)
 TOTAL COM LINKEDIN: 126 (0.8%)
-TOTAL COM FACEBOOK: 785 (5.1%)
-TOTAL COM DUAS OU MAIS FONTES (Google Maps + ao menos uma fonte própria: site, Instagram, e-mail, Facebook, LinkedIn ou WhatsApp confirmado): 5640 (36.7%)
-TOTAL COM EVIDÊNCIA TEXTUAL DE PROFISSIONAL MULHER: 1270 (8.3%)
+TOTAL COM FACEBOOK: 779 (5.1%)
+TOTAL COM DUAS OU MAIS FONTES (Google Maps + ao menos uma fonte própria: site, Instagram, e-mail, Facebook, LinkedIn ou WhatsApp confirmado): 5615 (36.7%)
+TOTAL COM EVIDÊNCIA TEXTUAL DE PROFISSIONAL MULHER: 1269 (8.3%)
 
 == PERCENTUAIS ==
-% com telefone: 66.9%
-% com WhatsApp confirmado: 7.2%
-% com Instagram confirmado: 16.1%
+% com telefone: 67.0%
+% com WhatsApp confirmado: 7.3%
+% com Instagram confirmado: 16.2%
 % com WhatsApp + Instagram: 4.8%
 % com e-mail: 1.3%
-% com site: 22.2%
+% com site: 22.1%
 % com Google Maps: 100.0%
 Registros de maior valor (NOME + PROFISSÃO + CIDADE + WHATSAPP CONFIRMADO + INSTAGRAM CONFIRMADO): 737 (4.8%)
 
 == TOTAL POR FERRAMENTA (um registro pode ter várias) ==
-TinyFish (Google Maps): 13696
-Firecrawl (Firecrawl Maps / Google Maps): 5009
-TinyFish (busca Yahoo/Brave): 1981
-TinyFish (site oficial): 1393
+TinyFish (Google Maps): 13648
+Firecrawl (Firecrawl Maps / Google Maps): 5010
+TinyFish (busca Yahoo/Brave): 1973
+TinyFish (site oficial): 1380
 TinyFish (perfil público do Instagram): 630
 TinyFish (Linktree): 33
 Firecrawl (site oficial): 4
 
 == TOTAL POR PROFISSÃO/ATIVIDADE (categoria principal no Google Maps) ==
-Salão de beleza: 1122
-Academia: 400
-Restaurante: 388
-Psicólogo: 322
-Dentista: 317
-Nutricionista: 313
-Loja: 302
-Farmácia: 287
-Imobiliária: 275
-Escritório de contabilidade: 230
-Centro de saúde e beleza: 222
-Estúdio de pilates: 194
-Costureira: 184
-Fisioterapeuta: 184
-Cafeteria: 183
-Confeitaria: 175
+Salão de beleza: 1135
+Academia: 405
+Restaurante: 403
+Loja: 349
+Dentista: 326
+Psicólogo: 325
+Nutricionista: 316
+Farmácia: 289
+Imobiliária: 282
+Escritório de contabilidade: 232
+Centro de saúde e beleza: 225
+Estúdio de pilates: 204
+Fisioterapeuta: 187
+Costureira: 185
+Cafeteria: 182
+Confeitaria: 178
 Clínica de Fisioterapia: 174
 não identificado: 171
-Loja de moda feminina: 161
+Loja de moda feminina: 169
+Manicure: 153
+Loja de Roupa: 152
 Veterinário: 151
-Manicure: 148
-Doceria: 146
-Loja de Roupa: 146
-Drogaria: 146
-Padaria: 143
-Podólogo(a): 140
-Advogado(a): 140
-Salão de festas: 139
-Serviços jurídicos: 131
-Clínica odontológica: 123
+Doceria: 148
+Padaria: 147
+Advogado: 147
+Drogaria: 147
+Podólogo(a): 141
+Salão de festas: 140
+Serviços jurídicos: 133
+Clínica odontológica: 128
 Moda feminina: 102
+Banho e tosa: 102
 Complexo de condomínio: 100
-Banho e tosa: 100
-Pet shop: 98
-Esteticista: 95
-Escola de dança: 91
-Lanchonete: 90
+Pet shop: 100
+Esteticista: 98
+Escola de dança: 95
+Lanchonete: 93
 Escritório de advocacia: 89
 Reforço escolar: 85
 Manicure / esmalteria: 81
@@ -125,156 +125,155 @@ Fonoaudiólogo(a): 81
 Confeiteira: 79
 Clínica especializada: 79
 Ótica: 79
+Escola de idiomas: 79
 Escola de música: 79
-Escola de idiomas: 78
-Personal trainer: 78
-Papelaria: 76
-Massoterapeuta: 74
+Personal trainer: 79
+Papelaria: 77
+Massoterapeuta: 75
 Loja de roupas femininas: 74
 Psicóloga: 73
-Centro médico: 71
-Médico: 70
+Médico: 69
 Floricultura: 68
 Assessoria contábil: 67
-Médica: 65
+Doces: 64
+Policlínica: 64
 Loja de artigos para festas: 64
-Policlínica: 63
+Centro médico: 63
 Pediatra: 63
-Doces: 62
+Loja de produtos naturais: 62
 Loja de lingerie: 62
-Loja de produtos naturais: 61
+Médica: 61
+Bar: 60
 Arquiteto(a): 60
 Corretora de imóveis: 60
-Bar: 57
 Fotógrafa: 56
+Empresa farmacêutica: 56
+Artesanato: 55
 Estúdio de fotografia: 55
-Artesanato: 54
+Joalheria: 54
 Psicopedagogia: 54
-Empresa farmacêutica: 54
+Loja de roupas de praia: 52
 Bufê: 51
-Joalheria: 50
 Educadora física: 50
+Cabeleireiro: 48
 Loja de cosméticos: 48
-Loja de roupas de praia: 48
-Cabeleireiro: 47
+Loja de moda infantil: 48
 Contador(a): 47
+Loja de acessórios de moda: 47
 Design de sobrancelhas: 46
-Loja de moda infantil: 46
 Agência de viagens: 46
+Loja de ração: 45
 Advogado(a) previdenciário(a): 45
+Buffet infantil: 45
 Dermatologista: 45
-Buffet infantil: 44
-Loja de acessórios de moda: 43
 Psicanalista: 43
-Loja de ração: 42
-Pizzaria: 40
-Perfumaria: 40
-Estúdio de maquiagem: 39
+Pizzaria: 41
+Gráfica: 41
+Perfumaria: 41
+Estúdio de maquiagem: 40
+Restaurante brasileiro: 39
 Sorveteria: 38
-Restaurante brasileiro: 38
+Loja de bolos: 38
 Professora de idiomas: 38
-Loja de bolos: 37
 Ginecologista e obstetra: 37
 Psiquiatra: 37
-Hotel para animais de estimação: 36
-Gráfica: 34
+Hotel para animais de estimação: 37
+Salão de bronzeamento: 36
+Escritório da empresa: 35
 Cerimonial / organização de eventos: 34
+Consultório médico: 34
 Hotel: 34
-Escritório da empresa: 33
 Depilação: 33
-Consultório médico: 33
+Loja de roupas: 33
 Loja de variedades: 32
 Advogada: 32
-Salão de bronzeamento: 31
-Loja de roupas: 31
+Cirurgião dentista: 31
 Endocrinologista: 31
 Brasileira: 30
 Depilação com cera: 30
+Local para eventos: 30
 Studio de yoga: 30
-Cirurgião dentista: 30
-Local para eventos: 29
 Pilates: 29
 Pousada: 29
 Buffet de casamento: 28
 Buffet: 28
 Lingerie: 28
 Fonoaudióloga: 28
+Sorvete: 27
 Pizza: 27
 Designer de interiores: 27
 Advogado(a) trabalhista: 27
 Agência de marketing digital: 27
+Spa: 26
 Loja de produtos de beleza: 26
-Sorvete: 25
-Spa: 25
+Centro Educacional: 26
+Terapeuta: 26
+Serviço de saúde mental: 26
 Salão de cílios: 25
+Estúdio fotográfico: 25
 Academia de artes marciais: 25
-Serviço de saúde mental: 25
 Agência de turismo: 25
-Centro Educacional: 24
-Terapeuta: 24
+Hamburgueria: 23
 Loja de presentes: 23
 Loja de répteis: 23
-Estúdio fotográfico: 23
+Loja de artigos domésticos: 23
 Serviço de locação de artigos de festa: 23
-Hamburgueria: 22
-Loja de artigos domésticos: 22
+Barbearia: 22
 Professora de música: 22
 Moda praia: 22
-Centro médico público: 22
-Barbearia: 21
+Loja de móveis: 21
+Loja infantil: 20
+Instituição educacional: 20
 Serviço de fotografia: 20
 Decoradora: 20
+Churrascaria: 19
 Escritório de arquitetura: 19
+Fornecedor de Brindes: 19
 Crochê: 19
-Loja de móveis: 19
-Instituição educacional: 19
 Escola de inglês: 19
 Clínica de saúde mental: 19
 Loja de doces: 18
-Biomédica: 18
-Loja infantil: 18
+Armarinho: 18
 Professora de dança: 18
+Agência de Marketing: 18
 Semijoias: 18
 Treinador de cachorros: 18
-Churrascaria: 17
-Fornecedor de Brindes: 17
-Armarinho: 17
 Centro de treinamento: 17
-Agência de Marketing: 17
+Ortodontista: 17
 Café: 16
+Loja de camisetas personalizadas: 16
 Autoescola: 16
 Estúdio de retratos: 16
 Hospital veterinário: 16
-Ortodontista: 16
-Loja de camisetas personalizadas: 15
+Hospital: 16
 Loja de cosmético: 15
 Aluguel de artigos para festas: 15
+Serviço de catering: 15
+Restaurante self-service: 14
+Atacadista: 14
 Apartamentos: 14
 Instituição de ensino: 14
-Serviço de catering: 14
+Farmácia de homeopatia: 14
 Restaurante de frutos do mar: 13
-Restaurante self-service: 13
 Complexo de apartamentos: 13
 Advogado(a) de direito de família: 13
+Escola de artes: 13
+Serviços para festas infantis: 13
 Neuropsicólogo(a): 13
-Farmácia de homeopatia: 13
 Podóloga: 13
 Centro de diagnóstico médico por imagem: 13
 Bistrô: 12
 Cestas e presentes: 12
-Atacadista: 12
 Hambúrguer: 12
+Centro: 12
 Loja de suprimentos para animais de estimação: 12
 Escola de lutas: 12
-Escola de artes: 12
+Loja de artigos para fotografia: 12
 Consultor de saúde: 12
-Hospital: 12
 Centro comercial: 11
 Frutos do mar: 11
 Lash designer: 11
 Loja de malas e bolsas: 11
-Loja de artigos para fotografia: 11
-Serviços para festas infantis: 11
 Loja de costura: 11
 Serviço de saúde ocupacional: 11
 Restaurante familiar: 10
@@ -283,45 +282,50 @@ Restaurante japonês: 10
 Resina: 10
 Loja de velas: 10
 Bronzeamento: 10
+Biomédica: 10
 Laboratório médico: 10
 Loja de produtos adultos: 10
 Advogado(a) criminalista: 10
 Escola particular: 10
 Fotógrafo de casamento: 10
+Personal trainer para mulheres: 10
 Programa de condicionamento físico: 10
 Centro de bem-estar: 10
 Babá de animais de estimação: 10
+Psicoterapeuta: 10
 Serviços de cuidados para idosos: 10
 Serviço de assistência médica domiciliar: 10
 Doula: 10
 Desenvolvimento de moradias: 10
 Jardim de infância: 10
+Restaurante de churrasquinho: 9
+Parque: 9
 Serviço de bordados: 9
 Advogado(a) cível: 9
 Ensino / aulas: 9
 Escola de balé: 9
 Espaço de eventos: 9
 Festas infantis: 9
-Personal trainer para mulheres: 9
 Atração turística: 9
-Psicoterapeuta: 9
 Psicólogo infantil: 9
 Terapeuta ocupacional: 9
 Cardiologista: 9
+Odontopediatra: 9
 Bar e grill: 8
-Restaurante de churrasquinho: 8
 Restaurante delivery: 8
 Sublimação: 8
 Estúdio de gravação: 8
 Loja feminina: 8
+Loja de açaí: 8
 Aulas particulares: 8
 Pedagoga: 8
 Empresa de eventos: 8
 Serviço de ajuste de roupas: 8
 Loja de roupas para bebês: 8
-Odontopediatra: 8
+Consultoria: 8
 Restaurante de frango: 8
 Centro de aprendizagem: 8
+Canil: 8
 Supermercado: 7
 Restaurante italiano: 7
 Ambiente familiar: 7
@@ -329,91 +333,91 @@ Consultora de imóveis: 7
 Velas: 7
 Personalizados: 7
 Salão de baile: 7
+Spa de saúde: 7
 Salão de eventos: 7
 Centro de massagem: 7
+Loja de materiais de construção: 7
+Loja de celulares: 7
 Loja de eletrônicos: 7
-Loja de açaí: 7
 Advogado criminal: 7
+Professor(a) de música: 7
+Escola: 7
 Buffet de doces e sobremesas: 7
 Loja para Bebê: 7
 Loja de roupas para ocasiões formais: 7
 Consultoria empresarial: 7
-Consultoria: 7
 Clínica de Reabilitação: 7
+Delivery: 7
 Veterinária: 7
 Clínica médica: 7
-Canil: 7
 Pastéis: 6
 Bar de cervejas: 6
 Agente imobiliário: 6
 Imobiliária de aluguel de residências: 6
 Escritório de arquitetura de interiores: 6
 Artesã: 6
+Fabricante: 6
 Loja de materiais para artesanato: 6
 Papelaria personalizada: 6
-Centro: 6
-Spa de saúde: 6
 Depilação a laser: 6
+Mercado: 6
 Loja de tortas: 6
-Loja de materiais de construção: 6
-Loja de celulares: 6
 Loja de tecidos: 6
 Contador(a) certificado(a): 6
 Advogado(a) civil: 6
-Professor(a) de música: 6
 Creche: 6
 Escola de jiu-jitsu: 6
+Serviço de transporte: 6
 Loja de roupas esportivas: 6
 Dog walker: 6
 Clínica de implante dentário: 6
 Saúde e segurança ocupacional: 6
 E-commerce: 6
+Praça de alimentação: 6
+Studio de cílios: 6
 Comércio local: 6
 Italiana: 5
-Delivery: 5
 Restaurante mineiro: 5
 Restaurante natural: 5
 Japonesa: 5
 Bordado: 5
 Ateliê de arte: 5
-Cirurgião(ã) bucomaxilofacial: 5
 Loja especializada em bolsas e malas: 5
 Loja de perucas: 5
+Escola técnica: 5
+Pré-escola: 5
 Educação superior: 5
 Ensino domiciliar: 5
-Serviço de transporte: 5
 Serviços para casamento: 5
 Churrasco: 5
 Ajustes de roupas: 5
 Loja de roupas com tamanhos especiais: 5
 Brechó: 5
 Praia: 5
+Clínica de psicopedagogia: 5
 Radiologia odontológica: 5
 Laboratório de prótese e órtese: 5
+Cirurgião(ã) bucomaxilofacial: 5
 Ginecologista: 5
 Hospital particular: 5
-Centro de diagnósticos: 5
 Laboratório: 5
-Parque: 5
 Decorador de interiores: 5
 Imobiliária (locação): 5
-Studio de cílios: 5
+Loja de artigos religiosos: 5
 Loja de máquinas de costura: 5
-Departamento de saúde pública: 5
 Loja de chocolates: 4
 Café expresso: 4
 Sorveteria especializada em sundaes: 4
 Complexo residencial: 4
 Feira de artesanato: 4
 Sabonetes: 4
-Joalheria especializada em itens personalizados: 4
-Mercado: 4
+Centro estético: 4
 Loja de cortinas e persianas: 4
 Perito em contabilidade: 4
 Advogado(a) imobiliário(a): 4
 Curso de desenho: 4
 Escola de ensino fundamental: 4
-Pré-escola: 4
+Clube: 4
 Maternidade: 4
 Designer de joias: 4
 Sapateiro: 4
@@ -421,25 +425,21 @@ Creche pet: 4
 Pet sitter: 4
 Veterinário(a) 24h: 4
 Organização sem fins lucrativos: 4
-Clínica de psicopedagogia: 4
 Assistência médica: 4
 Dentista cosmético: 4
-Médico de família: 4
 Clínica de cuidados com a pele: 4
 Enfermeira: 4
 Loja de Informática: 4
 Lan House e Cyber café: 4
-Praça de alimentação: 4
-Gastrobar: 4
 Fornecedor de produtos de beleza: 4
-Loja de artigos religiosos: 4
 Papelaria / copiadora: 4
 Escola de natação: 4
-Escola técnica: 4
 Cabine de fotos: 4
 Loja de roupas para jovens: 4
 Bazar: 4
+Centro de diagnósticos: 4
 Clínica oftalmológica: 4
+Gastrobar: 4
 Designer Gráfico: 4
 Escola de informática: 4
 Baby planner: 4
@@ -450,7 +450,6 @@ Quiosque: 3
 Grelhados: 3
 Restaurante para viagem: 3
 Impressões fotográficas: 3
-Centro estético: 3
 Maquiadora: 3
 Instituto de Pesquisa Científica: 3
 Loja de malas: 3
@@ -471,7 +470,6 @@ Escola de esportes: 3
 Centro cultural: 3
 Wedding planner: 3
 Escritório corporativo: 3
-Clube: 3
 Centro de cuidado à gestante: 3
 Relojoaria: 3
 Loja de vestidos de noiva: 3
@@ -492,6 +490,7 @@ Loja de vitaminas e suplementos: 3
 Escola preparatória: 3
 Organização de eventos e cerimonial: 3
 Consultoria em Marketing: 3
+Oficina de costura: 3
 Alfaiate: 3
 Serviço de conserto de máquinas de costura: 3
 Loja de roupas de designer: 3
@@ -499,6 +498,7 @@ Corretor de seguros: 3
 Esfiharia: 3
 Corretor(a) de imóveis: 3
 Consultor(a) imobiliário(a): 3
+Loja de produtos de papelaria: 3
 Loja de utilidades domésticas: 3
 Educador(a) especial: 3
 Casa de repouso para idosos: 3
@@ -508,69 +508,60 @@ Loja de cestas de presente: 2
 Creperia: 2
 Empório gourmet: 2
 Empresa de embalagens: 2
+Pastelaria brasileira: 2
 Fabricante de congelados: 2
-Restaurante de carne: 2
-Parque Praia João Caetano, 137: 2
 Cozinha solidária: 2
 Restaurante por quilo: 2
 Tabacaria: 2
 Corretora de aluguel de imóveis: 2
 Aulas de cerâmica: 2
-Loja de bordados: 2
 Clínica de saúde da mulher: 2
-Clínica de cirurgia plástica: 2
 Harmonização facial: 2
 Hospital Geral: 2
 Homeopatia: 2
 Loja de móveis infantis: 2
 Móveis planejados: 2
 Fornecedor de produtos descartáveis: 2
-Loja de pisos: 2
-Loja de colchões: 2
 Loja de Conveniência: 2
 Serviço de preparação de impostos: 2
+Consultor financeiro: 2
+Professor de violão: 2
 Curso preparatório: 2
 Educação de jovens e adultos: 2
-Escola: 2
 Organização de serviço social: 2
 Escola de fotografia: 2
 Empresa de organização de eventos: 2
 Fotógrafo comercial: 2
 Planejador de eventos: 2
-Academia de ginástica olímpica: 2
 Serviço de amamentação: 2
 Avaliador de joias: 2
 Alfaiate sob medida: 2
-Terapeuta reiki: 2
+Loja de moda masculina: 2
 Terapeuta de massagem tailandesa: 2
+Psicólogo Online: 2
 Terapeuta de casal: 2
 Nutrólogo: 2
+Gastroenterologista: 2
 Chaveiro(a): 2
+Clínica de cirurgia plástica: 2
 Clínica: 2
 Periodontia e implantes dentários: 2
 Clínica pediátrica: 2
 Osteopata: 2
 Agência de enfermagem: 2
 Corretora: 2
-Fabricante: 2
 Restaurante de comida natural: 2
 Empresa de engenharia civil: 2
 Oficina de reparos de celulares: 2
 Serviços gráficos: 2
 Colorista: 2
 Pronto-socorro: 2
-Loja de biscoitos: 2
-Loja de peixes tropicais: 2
-Loja de autopeças: 2
-Loja de aviamentos: 2
 Floricultura atacadista: 2
 Loja de queijos: 2
-Loja de donuts: 2
-Loja de madeiras: 2
+Jardim: 2
 Serviço de contabilidade de custos: 2
 Assistência jurídica: 2
 Praça: 2
-Escola de profissionais de beleza: 2
 Professora de tecnologia: 2
 Centro de educação pré-escolar: 2
 Professor(a) de violão/guitarra: 2
@@ -579,101 +570,56 @@ Espaço para dança: 2
 Escola vocacional: 2
 Campo de futebol: 2
 Academia de Muay Thai: 2
-Oficina de costura: 2
-Mercado de roupas: 2
 Coach: 2
 Serviço veterinário de emergência: 2
 Fornecedor de equipamentos agrícolas: 2
+Neurologista: 2
 Assistente social: 2
 Agência de passeios: 2
 Motel: 2
 Agência de passeios de ônibus: 2
 Construtora: 2
-Gráfica de etiquetas personalizadas: 2
 Loja de departamento: 2
 Cortinas e persianas: 2
-Loja de artigos em cerâmica: 2
-Fabricante de artigos de papelaria: 2
 Loja de instrumentos musicais: 2
+Advogado(a) empresarial: 2
 Escola de ensino fundamental II: 2
 Confecção: 2
 Jewelry designer: 2
+Banco: 2
 Oftalmologista: 2
-Hospital especializado: 2
 Fornecedor de equipamentos de telecomunicações: 2
 Consultora de vendas: 2
 Área de recreação: 2
 Trilha de Caminhada: 2
-Loja de produtos de papelaria: 2
 Loja de Iluminação: 2
 Consultoria jurídica: 2
 Agricultura e pecuária: 2
 Criador de cães: 2
 Passeador de cães: 2
-Doces Av -: 1
 Café da manhã: 1
-Bar Praia de Itaipu,: 1
 Cookies: 1
 Laticínios: 1
 Alimentação saudável: 1
-Doces dos -: 1
-Restaurante brasileiro esquina com -: 1
-Churrascaria Dr. Waldir da Costa,: 1
-Parque ecológico: 1
-Lanchonete Endereço -: 1
 Av. Rui Barbosa, 120/122: 1
-Pastelaria brasileira: 1
-Restaurante vegano: 1
 Casa de chá tradicional: 1
-Restaurante eclético: 1
 R. Ver. José Vicente Sobrinho, 886: 1
-Doceria Praia João Caetano,: 1
-Restaurante GENERAL -: 1
-Restaurante mediterrâneo: 1
 Negociante de alimentos: 1
 Imobiliária Near Offices -: 1
-Cartório de Registro de Imóveis: 1
+Cartório: 1
 Imobiliária de aluguel de condomínios: 1
-Imobiliária Ao lado do estacionamento do mercado Princesa -: 1
-Imobiliária de Carvalho -: 1
-Imobiliária Centro Empresarial Cupello,: 1
 Companhia gestora de propriedade: 1
-Loja de artigos para bordado: 1
 Serviço de impressão de convites: 1
-Gráfica esquina com,: 1
-Fornecedor de Brindes Barcas: 1
 Departamento de Registro de Domicílios: 1
-Salão de Beleza Obs: ao lado do material de construção -: 1
-Salão de Beleza próximo ao: 1
-Salão de Beleza Ewerton da costa xavier,: 1
-Manicure Ed Near Offices -: 1
-Centro de saúde e beleza Center Offices -: 1
 Serviço de estética: 1
-Spa e academia de ginástica: 1
 Centro estético EDIFÍCIO CENTRAL PARK -: 1
 Dentista estético(a): 1
-Manicure Offices X -: 1
 Salão de dança: 1
-Salão de Beleza lado da Auto Escola Estrela -: 1
-Esteticista Em cima da padaria Versales -: 1
-Centro de saúde e beleza Town Center -: 1
 Educação a domicílio: 1
 Mega hair: 1
-Salão de Beleza Barcas: 1
-Salão de Beleza Center Icaraí -: 1
-Estúdio de maquiagem X: 1
-Fabricante NÃO TEMOS LOJA FÍSICA,: 1
-Loja especializada em papel: 1
-Loja de comidas naturais: 1
-Loja de cervejas: 1
-Loja de produtos para panificação: 1
-Barbearia Av portugal,: 1
-Loja de carimbos: 1
-Loja de body piercing SHOPPING BAY MARKET - SEGUNDO PISO LOJA: 1
 Loja de molduras Multicenter -: 1
 Loja de embalagens: 1
 Serviço de conserto de malas: 1
-Consultor financeiro: 1
 Serviços administrativos: 1
 Departamento Fiscal: 1
 Corretor(a) financeiro(a): 1
@@ -681,98 +627,47 @@ Escritório de contabilidade avenida sete,: 1
 Associação de advogados: 1
 Distribuidor de bebidas: 1
 Advogado(a) de direito médico: 1
-Advogado Est. Marino Nunes Vieira: 1
 Serviço de administração de empresas: 1
-Advogado tributarista: 1
 Advogado(a) generalista: 1
-Advogado de patentes: 1
 Advogado(a) de inventário: 1
-Escola técnica Scuola di Cultura -: 1
 Escola de francês: 1
-Professor de violão Vale feliz -: 1
 Lodging: 1
 Conservatório de música: 1
 Centro de estudos: 1
-Escola de Japonês: 1
 Fundação: 1
-Escola de artes Praia da Boa Viagem: 1
-Escola de defesa pessoal: 1
-Centro educacional Bairro Chic -: 1
-Professor de música cima do Leo das Baterias, junto à Lotérica do Barravento -: 1
 Aulas particulares RUA ALMIRANDE TAMANDARE,: 1
 Escola de Música Center -: 1
-Escola de dança Center lV -: 1
-Escola de dança Av Irene Lopes Sodré: 1
 Serviço para Festas: 1
 Buffet de doces: 1
-Centro comunitário: 1
-Buffet infantil próximo ao Barravento -: 1
 Estúdio de cinema: 1
 Impressão digital: 1
 Organização de festas: 1
 Fornecedor de alimentos e bebidas para catering: 1
 Sala de fitness Estamos em frente ao Supermercado Prezunic -: 1
-Personal Trainer para mulheres Garcias justo -: 1
-Clube de iatismo: 1
-Estúdio de pilates Antiga -: 1
-Estúdio de pilates Premier Offices -: 1
 Aulas de yoga: 1
-Estúdio de pilates Opportune offices,: 1
 Lazer e recreação: 1
 Centro de meditação: 1
 Instrutor de natação: 1
-Academia Praia de Itaipu,: 1
-Gastroenterologista: 1
 Consultora de sono: 1
-Costureira antiga Moreira Cesar -: 1
-Loja de roupas de cama: 1
-Armarinho ao lado do Posto BR -: 1
-Loja de moda feminina Near Offices -: 1
-Loja especializada em roupas íntimas: 1
-Loja de acessórios de moda Center V -: 1
 Ourives: 1
-Loja de moda masculina Praia João Caetano,: 1
 Lago para natação: 1
-Loja de moda feminina av Everton da Costa Xavier, n:: 1
-Loja de moda feminina Av Central -: 1
 Empresa de hospedagem na Web: 1
-Loja de moda masculina: 1
 Consultoria de gestão empresarial: 1
-Centro de cuidados diurnos para cachorros: 1
 Especialista em medicina holística: 1
 Conselheiro: 1
-Clínica de psicopedagogia Av Central Ewerton Xavier,: 1
-Psicólogo Espaço Donna's -: 1
-Psicólogo Cancun Center: 1
-Psicólogo Online /: 1
-Loja de bolos ao lado da Drogaria Pacheco ) - sentido SG -: 1
-Farmácia fora de ordem ou lado do: 1
 Comunidade privada: 1
 Clínica de otorrinolaringologia: 1
-Clínica odontológica Trend Office Tower -: 1
-Dentista Próximo à praia de Icaraí, Trade Center -: 1
 Cuidados com os pés: 1
-Dentista de Castro -: 1
-Dentista shopping Lido Business -: 1
 Otorrinolaringologista: 1
 Fonoaudiólogo Prime Icaraí Business -: 1
-Clínica odontológica Centro de Saúde Oceânico -: 1
-Gastroenterologista pediátrico: 1
-Dentista Prédio Ponte Nova -: 1
 Geriatra: 1
 Clínica de odontopediatria: 1
 Cuidados com os pés A -: 1
 Casa de chá: 1
 Estr. Caetano Monteiro: 1
 Casa de repouso: 1
-Hospital psiquiátrico: 1
-Centro de tratamento de câncer: 1
 Praticante de medicina alternativa: 1
-Nutricionista R:Prof.Cardoso de Menezes: 1
-Nutricionista Outeiro de -: 1
-Hospital infantil: 1
 Tratamento para os pés antiga -: 1
-Pastelaria brasileira Em frente à “Drogaria Mais Barato -: 1
 Clínica de ginecologia e obstetrícia: 1
 Serviços de investimentos: 1
 Campo de softbol: 1
@@ -780,228 +675,109 @@ Bar informal: 1
 Torrefação de café: 1
 Petiscos: 1
 Mercearia atacadista: 1
-Confeitaria avdr -: 1
-Restaurante especializado em sopas: 1
 Feira Livre: 1
-Confeitaria AV,: 1
 Chop bar: 1
-Fabricante de alimentos: 1
-Restaurante Na: 1
-Padaria Parada: 1
 Pagoda: 1
 Alimentação saudável Ao lado da barbearia Rei do corte em -: 1
 Posto de combustível: 1
-Praça de alimentação R. Cirílo Jorge: 1
-Restaurante Av são miguel: 1
-Restaurante Av: São Miguel,: 1
-Restaurante self-service Próximo a: 1
 Stand bar: 1
-Sorvete Predio da antiga Tirante -: 1
 Frango: 1
 Chinesa: 1
 Custom home builder: 1
 Construtor Imobiliário: 1
 Architects association: 1
 Tabelião: 1
-Imobiliária Super Center de Alcântara - Loja: 1
 Empreiteira: 1
 Landscaper: 1
 Agência de imóveis comerciais: 1
-Artesanato RUA MEUQUIADES PICANCO Cs1: 1
-Gráfica Marcelino Lima Lt: 1
-Gráfica SG (EM FRENTE A PRAÇA DA MENTIRA -: 1
 Distribuidor de papel: 1
-Gráfica Triplex cinza -: 1
-Manicure Antigo cafezeiro,: 1
 Tatuador: 1
-Manicure GALERIA Mari & Lu -: 1
-Centro estético Stilo: 1
-Salão de Beleza Rodo: 1
 Farmers' market: 1
-Salão de bronzeamento Campo novo Sport show: 1
-Salão de bronzeamento Est. Conceição,: 1
-Loja de moda feminina em frente ao salão Ana Nunes -: 1
 DJ: 1
-Massoterapeuta Rodoshopping -: 1
-Salão de Beleza salão Ellegance -: 1
 Clínica de micropigmentação: 1
 R. Luís Mota, N° 145: 1
 Serviço de depilação a cera: 1
 Maquiador(a): 1
-Centro de saúde e beleza Em frente ao colégio Zerohum -: 1
-Esteticista Lado Posto Ipiranga -: 1
 Salão: 1
-Manicure Sem numero -: 1
 Beleza: 1
-Salão de festas Cobertura -: 1
-Loja de artigos religiosos rod Amaral Peixoto: 1
-Loja de ração em frente ao carrefour -: 1
-Estúdio fotográfico Loja: 1
 Reformas: 1
-Loja de artigos domésticos Loja: 1
 Cosmetic products manufacturer: 1
-Policlínica Sobreloja: 1
-Loja de ração Ceasa Pavilhão K -: 1
 Loja de trajes formais: 1
-Loja de ração de moraes -: 1
 R. Carlos Costa, 5: 1
-Loja de ervas: 1
 Entrega de flores: 1
-Jardim externo: 1
 Serviço de aluguel de móveis: 1
-Loja de Brinquedos: 1
 Shopping center: 1
-Loja de materiais de construção Altura do n°: 1
 Cabinet maker: 1
 Bar & grill: 1
-Escritório de contabilidade Professor Fortunato Luz,: 1
 Agência de certificação: 1
 Assessoria contábil Icon Business -: 1
 Advogado Prédio Icon Business e: 1
 R. Luís Rodrigues Machado, 15: 1
-Serviços jurídicos Paraíso Offices: 1
-Advogado Sobrado,: 1
-Advogado nº,: 1
 Advogado escritório -: 1
 Empresa de ônibus: 1
 Advogado Icon Business &: 1
 Aula de culinária: 1
 Músico(a): 1
 Av. São Miguel, 1552: 1
-Escola de dança Centro de -: 1
 Eletricista: 1
 Treino de futebol: 1
-Pré-escola bilíngue: 1
 R. Ana Cigana, 210: 1
-Escola de dança Ao lado do número: 1
-Centro educacional Térreo,: 1
-Professor de violão: 1
-Centro espírita: 1
 Consultor educacional: 1
-Escola de idiomas wlcidiomas@gmail.com -: 1
-Serviços para festas infantis Andrade -: 1
-Local para eventos Vereador -: 1
 R. Itatiaia, 110: 1
 Barbecue area: 1
 Aula de fotografia: 1
 Observatório: 1
 Serviço de distribuição: 1
-Loja de artigos para fotografia Trade Center Alcântara, Loja: 1
-Serviço de catering Icon Business &: 1
-Estúdio fotográfico RUA COMANDANTE ARY PARREIRA: 1
 R. Mario Pinoti, 188: 1
-Estúdio de pilates Exp Expedicionario Noraldino Rosa: 1
-Estúdio de pilates Lote: 1
-Personal trainer Em frente ao antigo Saara Antiga -: 1
-Estúdio de pilates Esquina com a -: 1
-Gráfica lado da Academia, próx: 1
 Personal trainer Anexo Ao Colégio Cejop -: 1
-Loja de açaí Entrada da academia Panobianco -: 1
 Academia AV DR. HUMBERTO SOEIRO DE CARVALHO,: 1
-Estúdio de pilates Est. Conceição,: 1
-Agência de Marketing Icon Business -: 1
 Mídia: 1
-Loja para gestantes: 1
 Loja de noivas: 1
-Oficina de costura Rodo Mix ao lado do Banco do Brasil -: 1
-Loja de moda feminina de Morais -: 1
-Loja de roupas de praia esquina com a rua: 1
-Loja especializada em roupas íntimas Próximo a -: 1
 Loja de moda feminina Rio de janeiro -: 1
 Loja de lingerie praça shopping -: 1
-Atacadista de artigos de couro: 1
 Concessionária da Fiat: 1
-Loja de moda feminina ao lado do -: 1
 Joalheiro: 1
-Loja de acessórios de moda Atacadão - Manilha -: 1
 Joalheria Rosa: 1
-Loja de moda feminina rua general camisao,35: 1
-Loja de roupas de praia galeria small shopping - rua joão caetano, rua da feira,: 1
-Atacadista de roupas: 1
-Loja de roupas de praia RUA: Ilhéus,: 1
 Estúdio de alta costura: 1
-Loja de moda infantil Av José Mendonça de Campos,: 1
 Organização não governamental: 1
 Costureira Próximo a -: 1
 Templo: 1
 Bijuterias e semijoias: 1
-Loja de moda feminina Ao lado do número: 1
-Loja de acessórios de moda Pátio Alcântara,: 1
 Serviços de informação: 1
-Consultoria para alimentos e bebidas: 1
 Veterinary care: 1
-Pet Shop Após o Pan do Coelho -: 1
-Pet Shop Av Imboaçu,: 1
 Fornecedor de água engarrafada: 1
-Banho e tosa Dentro da Antiga Lanchonete Trevo -: 1
 Farmácia veterinária: 1
-Psicólogo Online: 1
 Ambulatório: 1
 R. Salvatori, 109: 1
 Psicólogo Centro Empresarial: 1
-Psicólogo Prédio Ara e Anne -: 1
-Psicoterapeuta EMDR: 1
 Ortodontista Icon Business &: 1
 Loja de artigos médicos: 1
-Consultório de enfermagem Stilo: 1
+Consultório de enfermagem: 1
 R. Sá Carvalho, 165: 1
-Clínica odontológica Consultório Odontológico -: 1
 Fonoaudiólogo Atendimentos ás sextas -: 1
-Loja de produtos odontológicos: 1
-Ortodontista Centro Empresarial: 1
-Farmácia de homeopatia Trade Center Alcântara - Loja: 1
-Cirurgião dentista Centro Empresarial -: 1
-Neurologista pediátrico: 1
 Enfermeiro(a): 1
 Cirurgião ortopédico: 1
-Nutricionista Este -: 1
 Endodontista: 1
-Odontopediatra Centro Empresarial: 1
-Fisioterapeuta Atendimentos Domiciliar: 1
-Dentista PR,: 1
-Dentista Odontowork Dra. Vanessa Monteiro Cirurgiã -Dentista -: 1
 R. Abílio José de Mattos, 1320 - Lj 01: 1
 R. Minas Gerais, 307B: 1
-Fisioterapeuta Centro Empresarial: 1
-Drogaria Est. Conceição,: 1
 Fonoaudiólogo Palácio Do Comércio -: 1
 Nutricionista Icon Business: 1
-Consultório médico Icon Business, e: 1
-Clínica odontológica Em frente ao Banco Bradesco -: 1
 Fisioterapeuta Da Vinci -: 1
-Empresa farmacêutica RODO SHOPPING -: 1
 Podologia: 1
-Escola de enfermagem: 1
-Hospital Público: 1
 Av. Pres. Kennedy, 735: 1
-Podólogo Yolanda Saad absusaid,: 1
 R. Dr. Nilo Peçanha, 389: 1
-Pronto atendimento: 1
-Dentista Icon Business -: 1
-Loja de acessórios de informática: 1
 Agência de seguros: 1
-Hotel para animais de estimação : -: 1
 Love hotel: 1
 Pensão: 1
 Holiday apartment rental: 1
 Fretamento de ônibus: 1
 Cachorro-quente: 1
-Pizzaria R Celestino J Martins: 1
-Restaurante de churrasquinho Próximo a -: 1
 Creperie: 1
 Loja de artigos para confeitaria: 1
 Estacionamento: 1
-Padaria Esquina com a: 1
-Padaria Apolo II (Manilha -: 1
 Atacadista de confeitaria: 1
 Posto de combustível ESTR.DO CONTORNO GUANABARA, KM: 1
-Praça de alimentação cite - R. Quatro: 1
 Sopa: 1
-Lanchonete Atendimento&Zap (55)2197113 -: 1
-Restaurante de comida para viagem: 1
-Restaurante Aplicação -: 1
-Restaurante Unnamed Road: 1
-Hamburgueria SOMENTE RETIRADA, portão branco próximo a esquina -: 1
 Engenheiro(a) civil: 1
 Administradora de locação: 1
 Apartment complex: 1
@@ -1009,187 +785,101 @@ Condomínio: 1
 Fornecedor de equipamentos de impressão: 1
 Loja de artesanato: 1
 Central de artesanato: 1
-Salão de bronzeamento lado do Mercado Esperança -: 1
 Correios: 1
-Salão de Beleza Hellix Business Center -: 1
-Salão de bronzeamento Av vereador pereira neto: 1
-Spa de saúde Torre Oeste -: 1
-Salão de bronzeamento Av Hedvilson -: 1
 Salão de Beleza Enterprise City Center -: 1
 Fornecedor de Artigos Hospitalares AV: 1
-Cirurgião plástico: 1
 R. Artur Souto: 1
 Destino religioso: 1
-Jardim: 1
-Loja de utensílios de cozinha: 1
-Loja de móveis Av Amaral Peixoto,: 1
-Loja de descontos: 1
-Loja de artigos africanos: 1
-Loja de produtos de papelaria Torre Oeste - Governador Mário Covas: 1
-Perfumaria Montedonio Rego -: 1
-Loja de artigos de couro: 1
 Empresa de equipamentos para lojas e negócios: 1
 Traditional market: 1
-Loja de especiarias: 1
 Marcenaria: 1
-Loja de bonecas: 1
-Loja de body piercing: 1
-Consultor financeiro Prédio Osver -: 1
 Chaveiro(a) na entrada do Apolo II -: 1
 Beverage distributor: 1
 Serviço de escrituração contábil: 1
 Instituição financeira: 1
-Advogado(a) empresarial Torre Oeste -: 1
 Serviços jurídicos Hellix Bussiness -: 1
-Advogado LEONIDAS DOS SANTOS -: 1
-Serviços jurídicos Edf. Monet Corporate, Salas: 1
 Produtor(a) musical: 1
 Escola de beleza: 1
-Delivery Ziledio Alves de Azevedo: 1
 Educação infantil: 1
 Townhouse complex: 1
 Centro empresarial: 1
 Party buffet: 1
-Parque Praça Jardim Imperial, 60-84: 1
 Lavanderia: 1
 Estilista: 1
-Loja de acessórios de moda Ed Monet -: 1
 Loja de roupas masculinas: 1
 Serviced accommodation: 1
-Loja de roupas de praia frente ao Nalin: 1
 Loja de moda íntima: 1
 Centro de coaching: 1
-Loja de produtos naturais Van Gogh Corporate -: 1
-Canil Rd,: 1
-Banco de sangue: 1
 Centro de reabilitação: 1
 Musicoterapeuta: 1
-Centro de diálise: 1
-Farmácia Av João Papa XXIII QD: 1
-Empresa farmacêutica Lote: 1
+Cirurgião plástico: 1
 Nutricionista Office: 1
 Fornecedor de equipamentos de fisioterapia PLAZA SHOPPING -: 1
 Clínica de acupuntura: 1
 Empresa: 1
-Bar Esquina com a -: 1
-Sorvete Av Carlos Marighella: 1
 Confectionery wholesaler: 1
-Churrascaria especializada em miúdos: 1
-Padaria Quase esquina com a -: 1
 Lugar de peregrinação: 1
 Lanchonete Quiosque: 1
-Confeitaria Segue até o final da rua -: 1
 Catering food and drink supplier: 1
-Lanchonete esquina com -: 1
-Delivery especializado em pratos de frango: 1
-Restaurante Antiga - R HELIO MANCHON,: 1
 Av. Carlos Mariguella: 1
 R. I: 1
-Bar com música ao vivo: 1
 Karaoke bar: 1
 Casa de férias: 1
 Complexo habitacional: 1
 Casa lar: 1
 Desenvolvedora de imóveis: 1
-Imobiliária Est. Antônio Callado,: 1
-Imobiliária Atlântico Central -: 1
-Imobiliária Costa verde -: 1
 Casa de campo: 1
-Fornecedor de Brindes antiga -: 1
-Loja de camisetas personalizadas Rio de janeiro Barroco: 1
 R. Álvares de Castro, 154: 1
-Salão de Beleza praça da: 1
-Esteticista lodo do DPO de Ponta Negra -: 1
-Studio de cílios Braulino Venancio da Costa: 1
-Centro de convenções: 1
 Day Spa: 1
-Clínica odontológica No final do corredor da Smart Fit - RUA VEREADOR LUIZ ANTONIO DA CUNHA,: 1
 Salão do Reino das Testemunhas de Jeová: 1
-Salão de Beleza Val -: 1
-Salão de Beleza Est. Antônio Callado: 1
-Salão de Beleza rua1: 1
-Cabeleireiro Ao lado da Farmácia Tamoio -: 1
-Banco: 1
-Loja de móveis rústicos: 1
-Loja de tintas: 1
-Loja de celulares esquina com - rua: 1
-Loja de materiais elétricos: 1
-Loja de artigos para cama, mesa e banho: 1
 Mercado de flores: 1
-Loja de drones: 1
-Loja infantil Comercial Varandão do Zé Carlos -: 1
-Loja infantil av carlos maringhela, lj2: 1
 Loja de artigos esportivos: 1
-Loja de vestimentas tradicionais: 1
 Garden building supplier: 1
 Loja de rações: 1
-Escritório da empresa Q,,: 1
 Despachante: 1
-Escritório de contabilidade Comercial Julia Leite -: 1
-Escritório da empresa Q.,: 1
 Advogado Luiz Pereira -: 1
-Advogado Ed: 1
-Advogado(a) empresarial: 1
 Editora de livros digitais e multimídia: 1
 Serviços jurídicos lote: 1
-Associação de habitação: 1
+Associação: 1
 Clube esportivo: 1
-Estúdio de pilates rua professor cardoso de menezes, quadra: 1
-Instituição educacional Diamond Eventos -: 1
 Centro escolar: 1
-Restaurante RECANTO,: 1
 Marceneiro: 1
 Alfabetização: 1
 Marco histórico: 1
 R. Paraíso: 1
 Vidraçaria: 1
-Serviços para festas infantis RUA EDILÇO RAMALHO,: 1
-Academia Est. Antônio Callado,: 1
-Estúdio de pilates O -: 1
 Quadra de esportes: 1
-Academia Jardim balneário -: 1
 Academia rua jose floriano pires lote: 1
-Estúdio de pilates cordeirinho -: 1
 Fotógrafa newborn: 1
-Loja de moda infantil Av: Zumbi dos Palmares n°914: 1
 Jeweler: 1
 Consultor(a) de media: 1
 Criador de cães Itaocaia Valley: 1
-Serviço de transporte q lote: 1
 Terapeuta de drenagem linfática: 1
 Psicomotricista: 1
-Serviço de saúde mental Espaço Acolher - Center: 1
-Prestador de serviços públicos: 1
-Neurologista: 1
+Prestador de serviços: 1
 Clínica ortopédica: 1
-Dentista Pátio avenida -: 1
-Centro de acolhimento social: 1
 Cirurgião dentista km: 1
-Fisioterapeuta RUA GETULIO VARGAS QUADRA: 1
-Loja de produtos de nutrição esportiva: 1
 Serviço de exame de sangue: 1
 Saúde e segurança do trabalho: 1
-Dentista Ponto de referência: em cima da casa lotérica -: 1
 Praticante de medicina alternativa Em frente ao Posto: 1
 CRM: 1
 Agência de empréstimos: 1
 Assistência Técnica de Informática: 1
-Repartição pública: 1
 
 == TOTAL POR BAIRRO (somente bairros identificados; inclui inferidos pelo logradouro) ==
-Niterói/RJ — 3768 registros com bairro identificado de 5369
-   Icaraí 1021; Centro 871; Piratininga 245; Santa Rosa 234; Fonseca 200; São Francisco 191; Itaipu 183; Ingá 140; Badu 111; Barreto 105; Largo da Batalha 103; Charitas 87; Engenhoca 46; Camboinhas 43; Maria Paula 27; São Domingos 16; Pendotiba 14; Atalaia 12; Sapê 12; Vital Brasil 10; Jardim Icaraí 9; Cafubá 8; Gragoatá 6; Cantagalo 5; Jacaré 5; Fátima 5; Maravista 5; Serra Grande 4; Itacoatiara 4; Santa Barbara 3; Jurujuba 3; Vila Progresso 3; Rio do Ouro 3; Largo do Barradas 3; São Lourenço 2; Maceio 2; Várzea das Moças 2; Baldeador 2; Pé Pequeno 2; Caramujo 2; Matapaca 2; Ponta D'areia 2; Boa Viagem 1; Ponta Dareia 1; Ilha da Conceição 1; Centro de Niterói 1; Região Oceânica de Niterói 1; Santo Antônio 1; Engenho do Mato 1; Ten. Jardim 1; Santana 1; Praia de São Francisco 1; Niteroi 1; Cachoeira 1; CEP: 1; Região Oceânica 1; Jardim Imbuí 1
-São Gonçalo/RJ — 3315 registros com bairro identificado de 5274
-   Centro 526; Alcantara 459; Estrela do Norte 181; Colubandê 148; Jardim Catarina 144; Trindade 138; Mutua 111; Nova Cidade 111; Mutondo 106; Ze Garoto 105; Rocha 102; Paraíso 93; Neves 90; Porto da Pedra 79; Boaçu 72; Barro Vermelho 72; Tribobó 69; Porto Novo 68; Laranjal 50; Gradim 50; Coelho 49; Brasilândia 48; Venda da Cruz 42; Galo Branco 33; Maria Paula 29; Boa Vista 28; Parada Quarenta 19; Raul Veiga 17; Pita 15; Santa Luzia 14; Arsenal 14; Patronato 14; Pacheco 13; Jardim Alcântara 12; Santa Catarina 12; Porto Velho 11; Itaúna 10; Vila Lage 9; Amendoeira 9; São Miguel 8; Mangueira 8; Vila Yara 7; Pião 7; Vista Alegre 6; Covanca 6; Lagoinha 6; Porto da Madama 5; Rio do Ouro 4; Jardim Catarina Novo 4; Jóquei Clube 4; Camarão 4; Santa Izabel 4; Mutuapira 3; Campo novo 3; Portão do Rosa 3; Miriambi 3; Porto do Rosa 3; Sacramento 3; Vila Três 3; Lindo Parque 2; Sobrado 2; Barracão 2; Vila Iara 2; Bandeirante 2; Monjolos 2; Almerinda 2; Mutuaguaçu 2; Shopping Portage 2; Engenho do Roçado 2; Ten. Jardim 2; Marambaia 2; Ipiíba 2; Engenho Pequeno 2; Antonina 2; Sentido Niterói 1; Jardim Nova República 1; Várzea das Mocas 1; Empresarial Parque das Águas 1; Ampliação 1; Boassu 1; Sete Pontes 1; Centro de 1; Street 1; Columba 1; Niterói 1; Rodo 1; Bom Retiro 1; Jardim Catarina Velho 1; Parque das águas 1; Jardim Fluminense 1; Parque das Águas Empresarial 1; Jardim California 1; Monjolo 1
-Itaboraí/RJ — 1324 registros com bairro identificado de 2057
-   Centro 619; Manilha 153; Outeiro das Pedras 68; Rio Várzea 58; Ampliação 54; Venda das Pedras 52; Jardim Imperial 45; Nancilândia 37; Nova Cidade 36; Retiro São Joaquim 24; Três Pontes 22; Joaquim de Oliveira 16; Areal 15; Sossego 13; Santo Expedito 12; Aldeia da Prata 12; Esperança 9; João Caetano 8; Santo Antonio 6; Quissamã 4; Novo Horizonte 3; Colônia 3; Vila Gabriela 3; Monte Verde 3; Centro (Manilha 3; Marambaia 3; Caluge 3; São Joaquim 2; Calundu 2; Monet 2; Retiro 2; Rio Várzea, Itaboraí,n° 4845, sala 323, Av. Vinte e Dois de Maio 2; Itaville 2; Centro (Manilha) 2; Centro de Itaboraí 2; City Areal 1; Bomfim 1; Nº 08 1; Bnh 1; Duques 1; Gebara 1; Pacheco 1; Pachecos 1; Jardim Shangri-la 1; Itambi 1; Campos Santos 70 1; São José 1; Grande Rio 1; Granjas Cabuçu 1; Box 09 1; Vila Rica 1; Jardim Itambi 1; Santo Antônio Manilha 1; VILA VERDE I 1; Engenho Velho 1; Vila Brasil 1; Sambaetiba 1; Bonfim 1; Bela Vista 1
-Maricá/RJ — 1440 registros com bairro identificado de 2650
-   Centro 418; Itaipuaçu 246; Eldorado 112; Inoã 88; Flamengo 85; São José de Imbassai 72; Itapeba 52; Barroco 50; Araçatiba 38; Camburi 33; Mumbuca 29; Jardim Atlântico Central 25; Jardim Atlântico Leste 21; Parque Nanci 15; Cordeirinho 12; Jardim Atlântico Oeste 11; Zacarias 9; Ponta Grossa 8; Boqueirão 6; Itaocaia Valley 6; Recanto de Itaipuaçu 6; Caxito Pequeno 6; Jardim Atlântico 6; Jacaroá 6; Ponta Negra 5; Pindobas 5; Ubatiba 5; Caxito 4; Condado de Maricá 4; Praia de Itaipuaçu 4; Barra de Maricá 3; Jardim Guaratiba 2; Jardim Adalberto Alves 2; Condado de 2; Santa Paula 2; Centro de 2; Costa Verde 2; Boa Vista 2; Marquês 2; Pedreiras 2; Condado 2; Chácara de Inoã 2; Jd Atlatico 2; Bosque Fundo 2; Rincão Mimoso 1; Centro de Maricá 1; Vivendas de Itaipuaçu 1; Morada das Águias 1; Pedreira 1; Bosque dos flamboyant 1; Pindobal 1; Flamengo (colinas 1; Bairro da amizade 1; São bento da lagoa 1; Jar Graciema 1; Bambui 1; Chácaras de Inoã 1; Recanto 1; Manu Manuela 1; Avenida Jardel filho (antiga avenida dois, rua 50 1; Marquês de Maricá 1; São jose 1; SHOPPING TERRAZO 1; Shopping Costa Azul 1; Valmar 1; Rua Domício da Gama,89 Shopping Maricá, Sl 204 1; ITAOCAIA VALLEY (ITAIPUACU 1; Bananal (Ponta Negra) 1
+Niterói/RJ — 3763 registros com bairro identificado de 5354
+   Icaraí 1021; Centro 871; Piratininga 244; Santa Rosa 235; Fonseca 199; São Francisco 191; Itaipu 183; Ingá 140; Badu 111; Barreto 104; Largo da Batalha 103; Charitas 87; Camboinhas 43; Engenhoca 43; Maria Paula 27; São Domingos 16; Pendotiba 14; Atalaia 12; Sapê 12; Vital Brasil 10; Jardim Icaraí 9; Cafubá 8; Cantagalo 6; Gragoatá 6; Jacaré 5; Fátima 5; Maravista 5; Serra Grande 4; Itacoatiara 4; Santa Barbara 3; Jurujuba 3; Vila Progresso 3; Rio do Ouro 3; Largo do Barradas 3; São Lourenço 2; Maceio 2; Várzea das Moças 2; Baldeador 2; Pé Pequeno 2; Caramujo 2; Matapaca 2; Ponta D'areia 2; Boa Viagem 1; Ponta Dareia 1; Ilha da Conceição 1; Centro de Niterói 1; Região Oceânica de Niterói 1; Santo Antônio 1; Engenho do Mato 1; Ten. Jardim 1; Santana 1; Praia de São Francisco 1; Niteroi 1; Cachoeira 1; Região Oceânica 1; Jardim Imbuí 1
+São Gonçalo/RJ — 3299 registros com bairro identificado de 5260
+   Centro 691; Alcantara 460; Colubandê 148; Jardim Catarina 144; Trindade 138; Mutua 111; Nova Cidade 111; Mutondo 106; Ze Garoto 105; Rocha 102; Paraíso 93; Neves 90; Porto da Pedra 79; Boaçu 72; Barro Vermelho 71; Tribobó 69; Porto Novo 68; Laranjal 50; Gradim 50; Coelho 49; Brasilândia 47; Venda da Cruz 42; Galo Branco 33; Maria Paula 29; Boa Vista 28; Parada Quarenta 19; Raul Veiga 17; Pita 15; Santa Luzia 14; Arsenal 14; Patronato 14; Pacheco 13; Jardim Alcântara 12; São Miguel 12; Santa Catarina 12; Porto Velho 11; Itaúna 10; Vila Lage 9; Amendoeira 9; Mangueira 8; Vila Yara 7; Pião 7; Vista Alegre 6; Covanca 6; Lagoinha 6; Porto da Madama 5; Rio do Ouro 4; Jardim Catarina Novo 4; Jóquei Clube 4; Camarão 4; Santa Izabel 4; Mutuapira 3; Campo novo 3; Portão do Rosa 3; Miriambi 3; Porto do Rosa 3; Sacramento 3; Vila Três 3; Lindo Parque 2; Sobrado 2; Barracão 2; Vila Iara 2; Bandeirante 2; Monjolos 2; Almerinda 2; Mutuaguaçu 2; Engenho do Roçado 2; Ten. Jardim 2; Marambaia 2; Ipiíba 2; Engenho Pequeno 2; Antonina 2; Sentido Niterói 1; Jardim Nova República 1; Várzea das Mocas 1; Empresarial Parque das Águas 1; Ampliação 1; Boassu 1; Sete Pontes 1; Centro de 1; Street 1; Columba 1; Niterói 1; Bom Retiro 1; Jardim Catarina Velho 1; Parque das águas 1; Jardim Fluminense 1; Parque das Águas Empresarial 1; Jardim California 1; Monjolo 1
+Itaboraí/RJ — 1318 registros com bairro identificado de 2053
+   Centro 620; Manilha 153; Outeiro das Pedras 68; Rio Várzea 58; Ampliação 52; Venda das Pedras 52; Jardim Imperial 45; Nancilândia 37; Nova Cidade 36; Retiro São Joaquim 24; Três Pontes 22; Joaquim de Oliveira 16; Areal 15; Sossego 13; Santo Expedito 12; Aldeia da Prata 12; Esperança 9; João Caetano 8; Santo Antonio 6; Quissamã 4; Novo Horizonte 3; Colônia 3; Vila Gabriela 3; Monte Verde 3; Centro (Manilha 3; Marambaia 3; Caluge 3; São Joaquim 2; Calundu 2; Monet 2; Retiro 2; Itaville 2; Centro (Manilha) 2; Centro de Itaboraí 2; City Areal 1; Bomfim 1; Bnh 1; Duques 1; Gebara 1; Pacheco 1; Pachecos 1; Jardim Shangri-la 1; Itambi 1; São José 1; Grande Rio 1; Granjas Cabuçu 1; Vila Rica 1; Jardim Itambi 1; Santo Antônio Manilha 1; VILA VERDE I 1; Engenho Velho 1; Vila Brasil 1; Sambaetiba 1; Bonfim 1; Bela Vista 1
+Maricá/RJ — 1435 registros com bairro identificado de 2635
+   Centro 418; Itaipuaçu 246; Eldorado 111; Inoã 88; Flamengo 84; São José de Imbassai 73; Itapeba 52; Barroco 50; Araçatiba 38; Camburi 33; Mumbuca 29; Jardim Atlântico Central 25; Jardim Atlântico Leste 21; Parque Nanci 15; Cordeirinho 12; Jardim Atlântico Oeste 11; Zacarias 9; Ponta Grossa 8; Boqueirão 6; Itaocaia Valley 6; Recanto de Itaipuaçu 6; Caxito Pequeno 6; Jardim Atlântico 6; Jacaroá 6; Ponta Negra 5; Pindobas 5; Ubatiba 5; Caxito 4; Condado de Maricá 4; Praia de Itaipuaçu 4; Barra de Maricá 3; Jardim Guaratiba 2; Jardim Adalberto Alves 2; Condado de 2; Santa Paula 2; Centro de 2; Costa Verde 2; Boa Vista 2; Marquês 2; Pedreiras 2; Condado 2; Chácara de Inoã 2; Jd Atlatico 2; Bosque Fundo 2; Rincão Mimoso 1; Centro de Maricá 1; Vivendas de Itaipuaçu 1; Morada das Águias 1; Pedreira 1; Bosque dos flamboyant 1; Pindobal 1; Flamengo (colinas 1; Bairro da amizade 1; São bento da lagoa 1; Jar Graciema 1; Bambui 1; Chácaras de Inoã 1; Recanto 1; Manu Manuela 1; Marquês de Maricá 1; São jose 1; Valmar 1; ITAOCAIA VALLEY (ITAIPUACU 1; Bananal (Ponta Negra) 1
 
 == COMO A BASE FOI CONSTRUÍDA ==
 Ferramentas efetivamente usadas e função de cada uma:
 - Firecrawl (Firecrawl Maps / Alexandria "businesses/search"): descoberta estruturada no Google Maps — 370 consultas profissão × cidade (e profissão × bairro), com nome, categorias, endereço com bairro e CEP, coordenadas, telefone, site, nota e nº de avaliações. Também usado para raspar páginas de contato de sites (3 páginas) até o fim dos créditos.
-- TinyFish (fetch de páginas públicas): (1) varredura do Google Maps em visualização pública limitada — 2.443 buscas profissão/especialidade × bairro e cauda longa × cidade; (2) visita às páginas iniciais de 1.674 sites oficiais e agregadores de links (Linktree etc.) para extrair Instagram, WhatsApp (wa.me / api.whatsapp / texto "WhatsApp"), e-mail, Facebook e LinkedIn; (3) 2.101 buscas por registro no Yahoo Brasil e no Brave ("[nome] [cidade] instagram", "[nome] [bairro] instagram", "[nome] [cidade] whatsapp"); (4) 1.370 visitas a perfis públicos do Instagram e a páginas linktr.ee/<usuário> para ler a bio pública e validar vínculos.
+- TinyFish (fetch de páginas públicas): (1) varredura do Google Maps em visualização pública limitada — 2.443 buscas profissão/especialidade × bairro e cauda longa × cidade; (2) visita às páginas iniciais de 1.674 sites oficiais e agregadores de links (Linktree etc.) para extrair Instagram, WhatsApp (wa.me / api.whatsapp / texto "WhatsApp"), e-mail, Facebook e LinkedIn; (3) 2.101 páginas de resultados de busca no Yahoo Brasil e no Brave (cada uma ligada a um ou mais registros) ("[nome] [cidade] instagram", "[nome] [bairro] instagram", "[nome] [cidade] whatsapp"); (4) 1.370 visitas a perfis públicos do Instagram e a páginas linktr.ee/<usuário> para ler a bio pública e validar vínculos.
 - Apify e Outscraper: NÃO foram usados. Nenhum dos dois está conectado a esta sessão (não há conector nem chave de API configurada) e o ambiente não alcança as APIs deles (bloqueio de rede). O papel previsto para o Outscraper (descoberta no Google Maps) foi cumprido pelo Firecrawl Maps; o papel do Apify (descoberta em escala) foi cumprido pela varredura TinyFish por bairro.
 Todos os resultados alimentaram uma única base, deduplicada continuamente pelo identificador do perfil no Google Maps e, no final, por chaves fortes (Instagram, WhatsApp, telefone, site) com preservação de filiais.
 
@@ -1204,7 +894,7 @@ Regras aplicadas:
 
 == LIMITAÇÕES — A BASE NÃO É COMPLETA ==
 - A lista NÃO representa todos os profissionais e empresas das quatro cidades. Ela reúne o que as fontes públicas consultadas exibiram em 03/10/2026; muitos profissionais (sobretudo autônomos sem perfil no Google Maps) não aparecem em buscas locais.
-- Meta de 10.000: atingida em quantidade de registros, mas NÃO em enriquecimento. As rodadas automáticas foram interrompidas pelo limite de uso dos agentes de coleta antes do fim: a busca de Instagram por registro ("[nome] [cidade] instagram") foi concluída para apenas 2.121 dos 15.350 registros finais — 11.099 registros sem Instagram NÃO chegaram a ser pesquisados individualmente; dos 2.799 sites oficiais/agregadores encontrados, 1.674 foram visitados; a segunda rodada (Brave, busca "[nome] whatsapp", páginas internas de contato) e a validação amostral adversarial não foram executadas. Por isso, "não identificado" em INSTAGRAM/WHATSAPP/E-MAIL significa, na maioria dos casos, "não verificado ainda", e não "inexistente". Os créditos do Firecrawl também se esgotaram durante a coleta (a varredura beleza × bairro passou para o TinyFish, que não exibe telefone para salões); Apify e Outscraper não estavam disponíveis.
+- Meta de 10.000: atingida em quantidade de registros, mas NÃO em enriquecimento. As rodadas automáticas foram interrompidas pelo limite de uso dos agentes de coleta antes do fim: a busca de Instagram por registro ("[nome] [cidade] instagram") cobriu apenas 2.113 dos 15.302 registros finais — 11.059 registros sem Instagram NÃO chegaram a ser pesquisados individualmente; dos 2.799 sites oficiais/agregadores encontrados, 1.674 foram visitados; a segunda rodada (Brave, busca "[nome] whatsapp", páginas internas de contato) e a validação amostral adversarial não foram executadas. Por isso, "não identificado" em INSTAGRAM/WHATSAPP/E-MAIL significa, na maioria dos casos, "não verificado ainda", e não "inexistente". Os créditos do Firecrawl também se esgotaram durante a coleta (a varredura beleza × bairro passou para o TinyFish, que não exibe telefone para salões); Apify e Outscraper não estavam disponíveis.
 - A visualização pública do Google Maps (TinyFish) omite telefone e bairro em parte das categorias (principalmente beleza); nesses casos o telefone vem de outra fonte ou fica "não identificado".
 - Instagram: perfis não podem ser lidos por completo sem login; foi lida apenas a parte pública (nome, contadores e início da bio). Alguns perfis aparecem como "indisponível" para visitantes sem login — isso foi registrado, sem contornar bloqueios. Links da bio (link na bio) não são visíveis sem login.
 - Buscas no Google, Mojeek, Startpage e Ecosia foram bloqueadas para acesso automatizado (CAPTCHA/JS); não houve tentativa de contornar. Foram usados Yahoo Brasil e Brave.
